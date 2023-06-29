@@ -5361,19 +5361,6 @@
       "release_date": "0000-00-00",
       "profile_url": "https://www.mmobomb.com/astro-empires",
       "favorite": false
-    },
-    {
-      "title": "Ramen Eater",
-      "thumbnail": "",
-      "short_description": "eating ramen",
-      "game_url": "",
-      "genre": "Social",
-      "platform": "PC (Windows)",
-      "publisher": "renwill",
-      "developer": "rennwill",
-      "release_date": "2023-06-06",
-      "id": 1154,
-      "favorite": false
     }
   ]
 }
