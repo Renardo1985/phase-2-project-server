@@ -11,7 +11,8 @@
       "publisher": "Activision Blizzard King",
       "developer": "Blizzard Entertainment",
       "release_date": "2022-10-04",
-      "profile_url": "https://www.mmobomb.com/overwatch-2"
+      "profile_url": "https://www.mmobomb.com/overwatch-2",
+      "favorite": true
     },
     {
       "id": 1125,
@@ -24,20 +25,22 @@
       "publisher": "Level Infinite",
       "developer": "Hotta Studio",
       "release_date": "2022-08-10",
-      "profile_url": "https://www.mmobomb.com/tower-of-fantasy"
+      "profile_url": "https://www.mmobomb.com/tower-of-fantasy",
+      "favorite": true
     },
     {
       "id": 1118,
       "title": "Diablo Immortal",
       "thumbnail": "https://www.mmobomb.com/g/1118/thumbnail.jpg",
-      "short_description": "Diablo Immortal is an all-new massively multiplayer online action RPG and Blizzard\u2019s long advertised mobile Diablo experience (that totally was not coming to PC) comes to PC complete with all the demon slaying and looting you could want.",
+      "short_description": "Diablo Immortal is an all-new massively multiplayer online action RPG and Blizzard’s long advertised mobile Diablo experience (that totally was not coming to PC) comes to PC complete with all the demon slaying and looting you could want.",
       "game_url": "https://www.mmobomb.com/open/diablo-immortal",
       "genre": "MMOARPG",
       "platform": "PC (Windows)",
       "publisher": "Activision Blizzard",
       "developer": "Blizzard Entertainment",
       "release_date": "2022-06-02",
-      "profile_url": "https://www.mmobomb.com/diablo-immortal"
+      "profile_url": "https://www.mmobomb.com/diablo-immortal",
+      "favorite": false
     },
     {
       "id": 523,
@@ -50,7 +53,8 @@
       "publisher": "Amazon Games",
       "developer": "Smilegate",
       "release_date": "2022-02-11",
-      "profile_url": "https://www.mmobomb.com/lost-ark"
+      "profile_url": "https://www.mmobomb.com/lost-ark",
+      "favorite": false
     },
     {
       "id": 1113,
@@ -63,7 +67,8 @@
       "publisher": "KRAFTON, Inc.",
       "developer": "KRAFTON, Inc.",
       "release_date": "2022-01-12",
-      "profile_url": "https://www.mmobomb.com/pubg"
+      "profile_url": "https://www.mmobomb.com/pubg",
+      "favorite": false
     },
     {
       "id": 508,
@@ -76,7 +81,8 @@
       "publisher": "Gaijin Entertainment",
       "developer": "Darkflow Software",
       "release_date": "2021-04-08",
-      "profile_url": "https://www.mmobomb.com/enlisted"
+      "profile_url": "https://www.mmobomb.com/enlisted",
+      "favorite": false
     },
     {
       "id": 1120,
@@ -89,7 +95,8 @@
       "publisher": "Mediatonic",
       "developer": "Mediatonic",
       "release_date": "2020-08-04",
-      "profile_url": "https://www.mmobomb.com/fall-guys"
+      "profile_url": "https://www.mmobomb.com/fall-guys",
+      "favorite": false
     },
     {
       "id": 340,
@@ -102,7 +109,8 @@
       "publisher": "GTArcade",
       "developer": "YOOZOO Games ",
       "release_date": "2019-11-14",
-      "profile_url": "https://www.mmobomb.com/game-of-thrones-winter-is-coming"
+      "profile_url": "https://www.mmobomb.com/game-of-thrones-winter-is-coming",
+      "favorite": false
     },
     {
       "id": 427,
@@ -115,7 +123,8 @@
       "publisher": "Bigpoint",
       "developer": "Bigpoint",
       "release_date": "2011-08-08",
-      "profile_url": "https://www.mmobomb.com/drakensang-online"
+      "profile_url": "https://www.mmobomb.com/drakensang-online",
+      "favorite": false
     },
     {
       "id": 380,
@@ -128,7 +137,8 @@
       "publisher": "Bigpoint",
       "developer": "Bigpoint",
       "release_date": "2006-12-11",
-      "profile_url": "https://www.mmobomb.com/darkorbit"
+      "profile_url": "https://www.mmobomb.com/darkorbit",
+      "favorite": false
     },
     {
       "id": 1122,
@@ -141,7 +151,8 @@
       "publisher": "Warner Bros. Games",
       "developer": "Player First Games",
       "release_date": "2022-07-19",
-      "profile_url": "https://www.mmobomb.com/multiversus"
+      "profile_url": "https://www.mmobomb.com/multiversus",
+      "favorite": false
     },
     {
       "id": 5,
@@ -154,7 +165,8 @@
       "publisher": "Targem",
       "developer": "Gaijin",
       "release_date": "2017-05-30",
-      "profile_url": "https://www.mmobomb.com/crossout"
+      "profile_url": "https://www.mmobomb.com/crossout",
+      "favorite": false
     },
     {
       "id": 347,
@@ -167,7 +179,8 @@
       "publisher": "InnoGames",
       "developer": "InnoGames",
       "release_date": "2015-04-08",
-      "profile_url": "https://www.mmobomb.com/elvenar"
+      "profile_url": "https://www.mmobomb.com/elvenar",
+      "favorite": false
     },
     {
       "id": 11,
@@ -180,7 +193,8 @@
       "publisher": "Perfect World Entertainment",
       "developer": "Cryptic Studios",
       "release_date": "2013-12-06",
-      "profile_url": "https://www.mmobomb.com/neverwinter"
+      "profile_url": "https://www.mmobomb.com/neverwinter",
+      "favorite": false
     },
     {
       "id": 345,
@@ -193,7 +207,8 @@
       "publisher": "InnoGames",
       "developer": "InnoGames",
       "release_date": "2012-04-17",
-      "profile_url": "https://www.mmobomb.com/forge-of-empires"
+      "profile_url": "https://www.mmobomb.com/forge-of-empires",
+      "favorite": false
     },
     {
       "id": 2,
@@ -206,7 +221,8 @@
       "publisher": "Wargaming",
       "developer": "Wargaming",
       "release_date": "2011-04-12",
-      "profile_url": "https://www.mmobomb.com/world-of-tanks"
+      "profile_url": "https://www.mmobomb.com/world-of-tanks",
+      "favorite": false
     },
     {
       "id": 1114,
@@ -219,7 +235,8 @@
       "publisher": "Konami Digital Entertainment",
       "developer": "Konami Digital Entertainment",
       "release_date": "2022-01-19",
-      "profile_url": "https://www.mmobomb.com/yu-gi-oh-master-duel"
+      "profile_url": "https://www.mmobomb.com/yu-gi-oh-master-duel",
+      "favorite": false
     },
     {
       "id": 1152,
@@ -232,7 +249,8 @@
       "publisher": "NEXON",
       "developer": "NEXON Games Co. Ltd.",
       "release_date": "2023-05-18",
-      "profile_url": "https://www.mmobomb.com/veiled-experts"
+      "profile_url": "https://www.mmobomb.com/veiled-experts",
+      "favorite": false
     },
     {
       "id": 475,
@@ -245,7 +263,8 @@
       "publisher": "miHoYo",
       "developer": "miHoYo",
       "release_date": "2020-09-28",
-      "profile_url": "https://www.mmobomb.com/genshin-impact"
+      "profile_url": "https://www.mmobomb.com/genshin-impact",
+      "favorite": true
     },
     {
       "id": 458,
@@ -258,7 +277,8 @@
       "publisher": "Gtarcade",
       "developer": "Yoozoo Games",
       "release_date": "2020-01-09",
-      "profile_url": "https://www.mmobomb.com/league-of-angels-heavens-fury"
+      "profile_url": "https://www.mmobomb.com/league-of-angels-heavens-fury",
+      "favorite": false
     },
     {
       "id": 21,
@@ -271,7 +291,8 @@
       "publisher": "Bungie",
       "developer": "Bungie",
       "release_date": "2019-10-01",
-      "profile_url": "https://www.mmobomb.com/destiny-2"
+      "profile_url": "https://www.mmobomb.com/destiny-2",
+      "favorite": true
     },
     {
       "id": 1140,
@@ -284,7 +305,8 @@
       "publisher": "eSpirit Games",
       "developer": "eSpirit Games",
       "release_date": "2017-12-05",
-      "profile_url": "https://www.mmobomb.com/battle-arena"
+      "profile_url": "https://www.mmobomb.com/battle-arena",
+      "favorite": false
     },
     {
       "id": 12,
@@ -297,11 +319,12 @@
       "publisher": "Gaijin Entertainment",
       "developer": "Gaijin Entertainment",
       "release_date": "2013-08-15",
-      "profile_url": "https://www.mmobomb.com/war-thunder"
+      "profile_url": "https://www.mmobomb.com/war-thunder",
+      "favorite": false
     },
     {
       "id": 1127,
-      "title": "Noah\u2019s Heart",
+      "title": "Noah’s Heart",
       "thumbnail": "https://www.mmobomb.com/g/1127/thumbnail.jpg",
       "short_description": "Noah's Heart is an open-world action-adventure MMORPG game developed by Archosaur Games, the developers of Dragon Raja.",
       "game_url": "https://www.mmobomb.com/open/noahs-heart",
@@ -310,7 +333,8 @@
       "publisher": "Archosaur Games",
       "developer": "Archosaur Games",
       "release_date": "2022-07-28",
-      "profile_url": "https://www.mmobomb.com/noahs-heart"
+      "profile_url": "https://www.mmobomb.com/noahs-heart",
+      "favorite": false
     },
     {
       "id": 519,
@@ -323,7 +347,8 @@
       "publisher": "Xbox Game Studios",
       "developer": "343 Industries",
       "release_date": "2021-11-15",
-      "profile_url": "https://www.mmobomb.com/halo-infinite"
+      "profile_url": "https://www.mmobomb.com/halo-infinite",
+      "favorite": true
     },
     {
       "id": 452,
@@ -336,7 +361,8 @@
       "publisher": "Activision",
       "developer": "Infinity Ward",
       "release_date": "2020-03-10",
-      "profile_url": "https://www.mmobomb.com/call-of-duty-warzone"
+      "profile_url": "https://www.mmobomb.com/call-of-duty-warzone",
+      "favorite": true
     },
     {
       "id": 9,
@@ -349,7 +375,8 @@
       "publisher": "Wargaming",
       "developer": "Wargaming",
       "release_date": "2015-07-02",
-      "profile_url": "https://www.mmobomb.com/world-of-warships"
+      "profile_url": "https://www.mmobomb.com/world-of-warships",
+      "favorite": false
     },
     {
       "id": 3,
@@ -362,7 +389,8 @@
       "publisher": "Digital Extremes",
       "developer": "Digital Extremes",
       "release_date": "2013-03-25",
-      "profile_url": "https://www.mmobomb.com/warframe"
+      "profile_url": "https://www.mmobomb.com/warframe",
+      "favorite": true
     },
     {
       "id": 13,
@@ -375,7 +403,8 @@
       "publisher": "NCsoft",
       "developer": "ArenaNet",
       "release_date": "2012-08-28",
-      "profile_url": "https://www.mmobomb.com/guild-wars-2"
+      "profile_url": "https://www.mmobomb.com/guild-wars-2",
+      "favorite": false
     },
     {
       "id": 1119,
@@ -388,7 +417,8 @@
       "publisher": "Gala Lab",
       "developer": "SNIEGU Technologies",
       "release_date": "2022-06-14",
-      "profile_url": "https://www.mmobomb.com/flyff-universe"
+      "profile_url": "https://www.mmobomb.com/flyff-universe",
+      "favorite": false
     },
     {
       "id": 466,
@@ -401,7 +431,8 @@
       "publisher": "Riot Games",
       "developer": "Riot Games",
       "release_date": "2020-06-02",
-      "profile_url": "https://www.mmobomb.com/valorant"
+      "profile_url": "https://www.mmobomb.com/valorant",
+      "favorite": false
     },
     {
       "id": 467,
@@ -414,7 +445,8 @@
       "publisher": "SEGA",
       "developer": "SEGA",
       "release_date": "2020-05-27",
-      "profile_url": "https://www.mmobomb.com/phantasy-star-online-2"
+      "profile_url": "https://www.mmobomb.com/phantasy-star-online-2",
+      "favorite": false
     },
     {
       "id": 1,
@@ -427,7 +459,8 @@
       "publisher": "Phoenix Labs",
       "developer": "Phoenix Labs, Iron Galaxy",
       "release_date": "2019-05-21",
-      "profile_url": "https://www.mmobomb.com/dauntless"
+      "profile_url": "https://www.mmobomb.com/dauntless",
+      "favorite": true
     },
     {
       "id": 455,
@@ -440,7 +473,8 @@
       "publisher": "R2 Games",
       "developer": "R2 Games",
       "release_date": "2019-05-21",
-      "profile_url": "https://www.mmobomb.com/eternal-fury"
+      "profile_url": "https://www.mmobomb.com/eternal-fury",
+      "favorite": false
     },
     {
       "id": 23,
@@ -453,7 +487,8 @@
       "publisher": "Electronic Arts",
       "developer": "Electronic Arts",
       "release_date": "2019-02-04",
-      "profile_url": "https://www.mmobomb.com/apex-legends"
+      "profile_url": "https://www.mmobomb.com/apex-legends",
+      "favorite": true
     },
     {
       "id": 57,
@@ -466,7 +501,8 @@
       "publisher": "Epic Games",
       "developer": "Epic Games",
       "release_date": "2017-09-26",
-      "profile_url": "https://www.mmobomb.com/fortnite-battle-royale"
+      "profile_url": "https://www.mmobomb.com/fortnite-battle-royale",
+      "favorite": false
     },
     {
       "id": 64,
@@ -479,7 +515,8 @@
       "publisher": "Funcom",
       "developer": "Funcom",
       "release_date": "2017-07-31",
-      "profile_url": "https://www.mmobomb.com/secret-world-legends"
+      "profile_url": "https://www.mmobomb.com/secret-world-legends",
+      "favorite": false
     },
     {
       "id": 449,
@@ -492,7 +529,8 @@
       "publisher": "Sandbox Interactive GmbH",
       "developer": "Sandbox Interactive GmbH",
       "release_date": "2017-07-17",
-      "profile_url": "https://www.mmobomb.com/albion-online"
+      "profile_url": "https://www.mmobomb.com/albion-online",
+      "favorite": false
     },
     {
       "id": 202,
@@ -505,7 +543,8 @@
       "publisher": "Reto-Moto",
       "developer": "Reto-Moto",
       "release_date": "2014-07-11",
-      "profile_url": "https://www.mmobomb.com/heroes-and-generals"
+      "profile_url": "https://www.mmobomb.com/heroes-and-generals",
+      "favorite": false
     },
     {
       "id": 224,
@@ -518,7 +557,8 @@
       "publisher": "Wargaming",
       "developer": "Wargaming",
       "release_date": "2013-11-12",
-      "profile_url": "https://www.mmobomb.com/world-of-warplanes"
+      "profile_url": "https://www.mmobomb.com/world-of-warplanes",
+      "favorite": false
     },
     {
       "id": 225,
@@ -531,7 +571,8 @@
       "publisher": "Trion Worlds",
       "developer": "Trion Worlds",
       "release_date": "2013-10-24",
-      "profile_url": "https://www.mmobomb.com/rift"
+      "profile_url": "https://www.mmobomb.com/rift",
+      "favorite": false
     },
     {
       "id": 243,
@@ -544,7 +585,8 @@
       "publisher": "Daybreak Games",
       "developer": "Daybreak Games",
       "release_date": "2012-11-21",
-      "profile_url": "https://www.mmobomb.com/planetside-2"
+      "profile_url": "https://www.mmobomb.com/planetside-2",
+      "favorite": false
     },
     {
       "id": 257,
@@ -557,7 +599,8 @@
       "publisher": "Electronic Arts",
       "developer": "Bioware",
       "release_date": "2011-12-20",
-      "profile_url": "https://www.mmobomb.com/swtor"
+      "profile_url": "https://www.mmobomb.com/swtor",
+      "favorite": false
     },
     {
       "id": 14,
@@ -570,7 +613,8 @@
       "publisher": "Perfect World Entertainment",
       "developer": " Cryptic Studios",
       "release_date": "2010-02-02",
-      "profile_url": "https://www.mmobomb.com/star-trek-online"
+      "profile_url": "https://www.mmobomb.com/star-trek-online",
+      "favorite": false
     },
     {
       "id": 310,
@@ -583,7 +627,8 @@
       "publisher": "Valve",
       "developer": "Valve",
       "release_date": "2007-10-10",
-      "profile_url": "https://www.mmobomb.com/team-fortress-2"
+      "profile_url": "https://www.mmobomb.com/team-fortress-2",
+      "favorite": false
     },
     {
       "id": 320,
@@ -596,7 +641,8 @@
       "publisher": "Warner Bros. Interactive Entertainment",
       "developer": "Turbine, Inc.",
       "release_date": "2006-02-28",
-      "profile_url": "https://www.mmobomb.com/dungeons-dragons-online"
+      "profile_url": "https://www.mmobomb.com/dungeons-dragons-online",
+      "favorite": false
     },
     {
       "id": 251,
@@ -609,20 +655,22 @@
       "publisher": "Warner Bros. Interactive Entertainment",
       "developer": "Turbine, Inc.",
       "release_date": "2001-04-24",
-      "profile_url": "https://www.mmobomb.com/lotro"
+      "profile_url": "https://www.mmobomb.com/lotro",
+      "favorite": false
     },
     {
       "id": 433,
       "title": "RuneScape",
       "thumbnail": "https://www.mmobomb.com/g/433/thumbnail.jpg",
-      "short_description": "RuneScape is one of the most popular free-to-play Browser MMORPG, from the British development studio Jagex. Set in a detailed, medieval fantasy world of epic scale both geographically and historically, RuneScape proudly draws its inspiration from classic role-playing games to deliver a contemporary, innovative and original experience for millions of players across the globe, with a popular subscription option of even greater scale and ambition, both running directly within almost any computer\u2019s browser.",
+      "short_description": "RuneScape is one of the most popular free-to-play Browser MMORPG, from the British development studio Jagex. Set in a detailed, medieval fantasy world of epic scale both geographically and historically, RuneScape proudly draws its inspiration from classic role-playing games to deliver a contemporary, innovative and original experience for millions of players across the globe, with a popular subscription option of even greater scale and ambition, both running directly within almost any computer’s browser.",
       "game_url": "https://www.mmobomb.com/open/runescape",
       "genre": "MMORPG",
       "platform": "PC (Windows), Web Browser",
       "publisher": "Jagex",
       "developer": "Jagex",
       "release_date": "2001-01-04",
-      "profile_url": "https://www.mmobomb.com/runescape"
+      "profile_url": "https://www.mmobomb.com/runescape",
+      "favorite": false
     },
     {
       "id": 350,
@@ -635,7 +683,8 @@
       "publisher": "Goodgame Studios",
       "developer": "Goodgame Studios",
       "release_date": "2011-08-14",
-      "profile_url": "https://www.mmobomb.com/goodgame-empire"
+      "profile_url": "https://www.mmobomb.com/goodgame-empire",
+      "favorite": false
     },
     {
       "id": 1153,
@@ -648,7 +697,8 @@
       "publisher": "Level infinite",
       "developer": "Lightspeed Studios",
       "release_date": "2023-06-15",
-      "profile_url": "https://www.mmobomb.com/undawn"
+      "profile_url": "https://www.mmobomb.com/undawn",
+      "favorite": false
     },
     {
       "id": 268,
@@ -661,7 +711,8 @@
       "publisher": "X-Legend Entertainment",
       "developer": "X-Legend Entertainment",
       "release_date": "2023-05-10",
-      "profile_url": "https://www.mmobomb.com/eden-eternal"
+      "profile_url": "https://www.mmobomb.com/eden-eternal",
+      "favorite": false
     },
     {
       "id": 1151,
@@ -674,7 +725,8 @@
       "publisher": "THQ Nordic",
       "developer": "Pow Wow Entertainment",
       "release_date": "2023-05-04",
-      "profile_url": "https://www.mmobomb.com/jected-rivals"
+      "profile_url": "https://www.mmobomb.com/jected-rivals",
+      "favorite": false
     },
     {
       "id": 1146,
@@ -687,7 +739,8 @@
       "publisher": "PressA",
       "developer": "PressA",
       "release_date": "2023-02-28",
-      "profile_url": "https://www.mmobomb.com/dead-cide-club"
+      "profile_url": "https://www.mmobomb.com/dead-cide-club",
+      "favorite": false
     },
     {
       "id": 1144,
@@ -700,7 +753,8 @@
       "publisher": "Nexon America Inc.",
       "developer": "Nexon Korea Corporation",
       "release_date": "2023-01-10",
-      "profile_url": "https://www.mmobomb.com/kartrider-drift"
+      "profile_url": "https://www.mmobomb.com/kartrider-drift",
+      "favorite": false
     },
     {
       "id": 1145,
@@ -713,7 +767,8 @@
       "publisher": "PLAION",
       "developer": "Toylogic Inc.",
       "release_date": "2023-01-24",
-      "profile_url": "https://www.mmobomb.com/warlander"
+      "profile_url": "https://www.mmobomb.com/warlander",
+      "favorite": false
     },
     {
       "id": 1142,
@@ -726,7 +781,8 @@
       "publisher": "A List Games",
       "developer": "Vaki Games",
       "release_date": "2022-11-03",
-      "profile_url": "https://www.mmobomb.com/kingshunt"
+      "profile_url": "https://www.mmobomb.com/kingshunt",
+      "favorite": false
     },
     {
       "id": 1143,
@@ -739,7 +795,8 @@
       "publisher": "Hidden Leaf Games",
       "developer": "Hidden Leaf Games",
       "release_date": "2022-11-30",
-      "profile_url": "https://www.mmobomb.com/fangs"
+      "profile_url": "https://www.mmobomb.com/fangs",
+      "favorite": false
     },
     {
       "id": 1147,
@@ -752,7 +809,8 @@
       "publisher": "Com2uS",
       "developer": "Com2uS",
       "release_date": "2022-11-09",
-      "profile_url": "https://www.mmobomb.com/summoners-war-chronicles"
+      "profile_url": "https://www.mmobomb.com/summoners-war-chronicles",
+      "favorite": false
     },
     {
       "id": 1137,
@@ -765,7 +823,8 @@
       "publisher": "XD",
       "developer": "XD",
       "release_date": "2022-10-12",
-      "profile_url": "https://www.mmobomb.com/torchlight-infinite"
+      "profile_url": "https://www.mmobomb.com/torchlight-infinite",
+      "favorite": false
     },
     {
       "id": 1138,
@@ -778,7 +837,8 @@
       "publisher": "Nuverse",
       "developer": "Second Dinner Studios, Inc.",
       "release_date": "2022-10-18",
-      "profile_url": "https://www.mmobomb.com/marvel-snap"
+      "profile_url": "https://www.mmobomb.com/marvel-snap",
+      "favorite": false
     },
     {
       "id": 1139,
@@ -791,7 +851,8 @@
       "publisher": "PlaySide",
       "developer": "PlaySide",
       "release_date": "2022-10-19",
-      "profile_url": "https://www.mmobomb.com/world-boss"
+      "profile_url": "https://www.mmobomb.com/world-boss",
+      "favorite": false
     },
     {
       "id": 1141,
@@ -804,7 +865,8 @@
       "publisher": " Simutronics Corp.",
       "developer": " Simutronics Corp.",
       "release_date": "2022-10-24",
-      "profile_url": "https://www.mmobomb.com/galahad-3093"
+      "profile_url": "https://www.mmobomb.com/galahad-3093",
+      "favorite": false
     },
     {
       "id": 1130,
@@ -817,7 +879,8 @@
       "publisher": "NetEase Games",
       "developer": "NetEase Games",
       "release_date": "2022-09-01",
-      "profile_url": "https://www.mmobomb.com/lost-light"
+      "profile_url": "https://www.mmobomb.com/lost-light",
+      "favorite": false
     },
     {
       "id": 1132,
@@ -830,7 +893,8 @@
       "publisher": "GungHo Online Entertainment Inc",
       "developer": "Supertrick Games",
       "release_date": "2022-09-28",
-      "profile_url": "https://www.mmobomb.com/deathverse-let-it-die"
+      "profile_url": "https://www.mmobomb.com/deathverse-let-it-die",
+      "favorite": false
     },
     {
       "id": 1133,
@@ -843,7 +907,8 @@
       "publisher": "BANDAI NAMCO Online Inc.",
       "developer": "BANDAI NAMCO Online Inc.",
       "release_date": "2022-09-21",
-      "profile_url": "https://www.mmobomb.com/gundam-evolution"
+      "profile_url": "https://www.mmobomb.com/gundam-evolution",
+      "favorite": false
     },
     {
       "id": 1134,
@@ -856,7 +921,8 @@
       "publisher": "Odyssey Interactive",
       "developer": "Odyssey Interactive",
       "release_date": "2022-09-16",
-      "profile_url": "https://www.mmobomb.com/omega-strikers"
+      "profile_url": "https://www.mmobomb.com/omega-strikers",
+      "favorite": false
     },
     {
       "id": 1096,
@@ -869,7 +935,8 @@
       "publisher": "NEOWIZ",
       "developer": "NEOWIZ",
       "release_date": "2022-08-24",
-      "profile_url": "https://www.mmobomb.com/ava"
+      "profile_url": "https://www.mmobomb.com/ava",
+      "favorite": false
     },
     {
       "id": 1124,
@@ -882,7 +949,8 @@
       "publisher": "Anisage Games",
       "developer": "Anisage Games",
       "release_date": "2022-08-01",
-      "profile_url": "https://www.mmobomb.com/aero-tales-online"
+      "profile_url": "https://www.mmobomb.com/aero-tales-online",
+      "favorite": false
     },
     {
       "id": 1128,
@@ -895,7 +963,8 @@
       "publisher": "Wizards of the Coast LLC",
       "developer": "Pipeworks Studios, Seismic Games",
       "release_date": "2022-08-05",
-      "profile_url": "https://www.mmobomb.com/magic-spellslingers"
+      "profile_url": "https://www.mmobomb.com/magic-spellslingers",
+      "favorite": false
     },
     {
       "id": 599,
@@ -908,33 +977,36 @@
       "publisher": "YAGER",
       "developer": "YAGER",
       "release_date": "2022-07-08",
-      "profile_url": "https://www.mmobomb.com/the-cycle"
+      "profile_url": "https://www.mmobomb.com/the-cycle",
+      "favorite": false
     },
     {
       "id": 1121,
       "title": "Temperia: Soul of Majestic",
       "thumbnail": "https://www.mmobomb.com/g/1121/thumbnail.jpg",
-      "short_description": "Temperia brings a \u201cplayer created for players\u201d mentality to the online board game/collectible card game (CCG) formula.",
+      "short_description": "Temperia brings a “player created for players” mentality to the online board game/collectible card game (CCG) formula.",
       "game_url": "https://www.mmobomb.com/open/temperia",
       "genre": "Card Game",
       "platform": "PC (Windows)",
       "publisher": "Leonardo Interactive",
       "developer": "MoonWolf Entertainment, A2 Softworks",
       "release_date": "2022-07-26",
-      "profile_url": "https://www.mmobomb.com/temperia"
+      "profile_url": "https://www.mmobomb.com/temperia",
+      "favorite": false
     },
     {
       "id": 1123,
       "title": "Chimeraland",
       "thumbnail": "https://www.mmobomb.com/g/1123/thumbnail.jpg",
-      "short_description": "Chimeraland is a free-to-play sandbox MMO that has so many character customization options that some of you may be in the creator for hours\u2026 no joke",
+      "short_description": "Chimeraland is a free-to-play sandbox MMO that has so many character customization options that some of you may be in the creator for hours… no joke",
       "game_url": "https://www.mmobomb.com/open/chimeraland",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
       "publisher": "Level Infinite",
       "developer": "Pixel soft",
       "release_date": "2022-07-14",
-      "profile_url": "https://www.mmobomb.com/chimeraland"
+      "profile_url": "https://www.mmobomb.com/chimeraland",
+      "favorite": false
     },
     {
       "id": 1129,
@@ -947,7 +1019,8 @@
       "publisher": "R2Games",
       "developer": "R2Games",
       "release_date": "2022-06-13",
-      "profile_url": "https://www.mmobomb.com/world-of-rune"
+      "profile_url": "https://www.mmobomb.com/world-of-rune",
+      "favorite": false
     },
     {
       "id": 1117,
@@ -960,7 +1033,8 @@
       "publisher": "Ubisoft",
       "developer": "Ubisoft Montreal",
       "release_date": "2022-05-25",
-      "profile_url": "https://www.mmobomb.com/roller-champions"
+      "profile_url": "https://www.mmobomb.com/roller-champions",
+      "favorite": false
     },
     {
       "id": 1116,
@@ -973,20 +1047,22 @@
       "publisher": "JAGEX",
       "developer": "Flying Wild Hog",
       "release_date": "2022-04-20",
-      "profile_url": "https://www.mmobomb.com/space-punks"
+      "profile_url": "https://www.mmobomb.com/space-punks",
+      "favorite": false
     },
     {
       "id": 1112,
       "title": "Century: Age of Ashes",
       "thumbnail": "https://www.mmobomb.com/g/1112/thumbnail.jpg",
-      "short_description": "Don\u2019t just ride a dragon, ride a dragon into battle and engage in fiery, mid-air combat in a selection of different modes.",
+      "short_description": "Don’t just ride a dragon, ride a dragon into battle and engage in fiery, mid-air combat in a selection of different modes.",
       "game_url": "https://www.mmobomb.com/open/century-age-of-ashes",
       "genre": "Shooter",
       "platform": "PC (Windows)",
       "publisher": "Playwing LTD",
       "developer": "Playwing LTD",
       "release_date": "2021-12-02",
-      "profile_url": "https://www.mmobomb.com/century-age-of-ashes"
+      "profile_url": "https://www.mmobomb.com/century-age-of-ashes",
+      "favorite": false
     },
     {
       "id": 1148,
@@ -999,7 +1075,8 @@
       "publisher": "Gaggle Studios Inc.",
       "developer": "Gaggle Studios Inc.",
       "release_date": "2021-10-03",
-      "profile_url": "https://www.mmobomb.com/goose-goose-duck"
+      "profile_url": "https://www.mmobomb.com/goose-goose-duck",
+      "favorite": false
     },
     {
       "id": 521,
@@ -1012,7 +1089,8 @@
       "publisher": "Sharkmob",
       "developer": "Sharkmob",
       "release_date": "2021-09-07",
-      "profile_url": "https://www.mmobomb.com/bloodhunt"
+      "profile_url": "https://www.mmobomb.com/bloodhunt",
+      "favorite": false
     },
     {
       "id": 1115,
@@ -1025,7 +1103,8 @@
       "publisher": "Gameforge",
       "developer": "Wangyuan Shengtang Entertainment Technology",
       "release_date": "2021-07-09",
-      "profile_url": "https://www.mmobomb.com/swords-of-legends-online"
+      "profile_url": "https://www.mmobomb.com/swords-of-legends-online",
+      "favorite": false
     },
     {
       "id": 511,
@@ -1038,7 +1117,8 @@
       "publisher": "Sega",
       "developer": "Sega",
       "release_date": "2021-06-09",
-      "profile_url": "https://www.mmobomb.com/phantasy-star-online-2-new-genesis"
+      "profile_url": "https://www.mmobomb.com/phantasy-star-online-2-new-genesis",
+      "favorite": false
     },
     {
       "id": 509,
@@ -1051,7 +1131,8 @@
       "publisher": "LINE Games Corporation",
       "developer": "5minlab",
       "release_date": "2021-04-13",
-      "profile_url": "https://www.mmobomb.com/smash-legends"
+      "profile_url": "https://www.mmobomb.com/smash-legends",
+      "favorite": false
     },
     {
       "id": 510,
@@ -1064,7 +1145,8 @@
       "publisher": "Blind Squirrel Entertainment",
       "developer": "Blind Squirrel Entertainment",
       "release_date": "2021-04-15",
-      "profile_url": "https://www.mmobomb.com/drifters-loot-the-galaxy"
+      "profile_url": "https://www.mmobomb.com/drifters-loot-the-galaxy",
+      "favorite": false
     },
     {
       "id": 502,
@@ -1077,7 +1159,8 @@
       "publisher": "Wire Games",
       "developer": "Global Dodo Entertainment",
       "release_date": "2021-03-04",
-      "profile_url": "https://www.mmobomb.com/primordials-battle-of-gods"
+      "profile_url": "https://www.mmobomb.com/primordials-battle-of-gods",
+      "favorite": false
     },
     {
       "id": 507,
@@ -1090,7 +1173,8 @@
       "publisher": "NetEase Games",
       "developer": "NetEase Games",
       "release_date": "2021-03-25",
-      "profile_url": "https://www.mmobomb.com/super-mecha-champions"
+      "profile_url": "https://www.mmobomb.com/super-mecha-champions",
+      "favorite": false
     },
     {
       "id": 500,
@@ -1103,7 +1187,8 @@
       "publisher": "WhisperGames",
       "developer": "Clarity Games",
       "release_date": "2021-01-28",
-      "profile_url": "https://www.mmobomb.com/chroma-bloom-and-blight"
+      "profile_url": "https://www.mmobomb.com/chroma-bloom-and-blight",
+      "favorite": false
     },
     {
       "id": 498,
@@ -1116,7 +1201,8 @@
       "publisher": "Third Kind Games",
       "developer": "Mythical Games Inc",
       "release_date": "2020-12-11",
-      "profile_url": "https://www.mmobomb.com/blankos"
+      "profile_url": "https://www.mmobomb.com/blankos",
+      "favorite": false
     },
     {
       "id": 499,
@@ -1129,7 +1215,8 @@
       "publisher": "Oddshot Games",
       "developer": "Oddshot Games",
       "release_date": "2020-12-07",
-      "profile_url": "https://www.mmobomb.com/slapshot-rebound"
+      "profile_url": "https://www.mmobomb.com/slapshot-rebound",
+      "favorite": false
     },
     {
       "id": 476,
@@ -1142,7 +1229,8 @@
       "publisher": "Nexon",
       "developer": "Valofe",
       "release_date": "2020-10-01",
-      "profile_url": "https://www.mmobomb.com/rogue-company"
+      "profile_url": "https://www.mmobomb.com/rogue-company",
+      "favorite": false
     },
     {
       "id": 477,
@@ -1155,7 +1243,8 @@
       "publisher": "Nimble Neuron",
       "developer": "Nimble Neuron",
       "release_date": "2020-10-14",
-      "profile_url": "https://www.mmobomb.com/eternal-return"
+      "profile_url": "https://www.mmobomb.com/eternal-return",
+      "favorite": false
     },
     {
       "id": 479,
@@ -1168,7 +1257,8 @@
       "publisher": "YC Games",
       "developer": "YC Games",
       "release_date": "2020-10-20",
-      "profile_url": "https://www.mmobomb.com/blood-of-steel"
+      "profile_url": "https://www.mmobomb.com/blood-of-steel",
+      "favorite": false
     },
     {
       "id": 473,
@@ -1181,7 +1271,8 @@
       "publisher": "Proletariat",
       "developer": "Proletariat",
       "release_date": "2020-09-04",
-      "profile_url": "https://www.mmobomb.com/spellbreak"
+      "profile_url": "https://www.mmobomb.com/spellbreak",
+      "favorite": false
     },
     {
       "id": 474,
@@ -1194,7 +1285,8 @@
       "publisher": "Psyonix LLC",
       "developer": "Psyonix LLC",
       "release_date": "2020-09-24",
-      "profile_url": "https://www.mmobomb.com/rocket-league"
+      "profile_url": "https://www.mmobomb.com/rocket-league",
+      "favorite": false
     },
     {
       "id": 471,
@@ -1207,7 +1299,8 @@
       "publisher": "R2 Games",
       "developer": "R2 Games",
       "release_date": "2020-07-20",
-      "profile_url": "https://www.mmobomb.com/armor-valor"
+      "profile_url": "https://www.mmobomb.com/armor-valor",
+      "favorite": false
     },
     {
       "id": 469,
@@ -1220,7 +1313,8 @@
       "publisher": "New Blood Interactive",
       "developer": "Geoff 'Zag' Keene",
       "release_date": "2020-06-12",
-      "profile_url": "https://www.mmobomb.com/unfortunate-spacemen"
+      "profile_url": "https://www.mmobomb.com/unfortunate-spacemen",
+      "favorite": false
     },
     {
       "id": 472,
@@ -1233,7 +1327,8 @@
       "publisher": "101XP",
       "developer": "101XP",
       "release_date": "2020-06-15",
-      "profile_url": "https://www.mmobomb.com/jade-goddess"
+      "profile_url": "https://www.mmobomb.com/jade-goddess",
+      "favorite": false
     },
     {
       "id": 461,
@@ -1246,7 +1341,8 @@
       "publisher": "Kabam Games, Inc.",
       "developer": "Kabam Games, Inc.",
       "release_date": "2020-05-05",
-      "profile_url": "https://www.mmobomb.com/shop-titans"
+      "profile_url": "https://www.mmobomb.com/shop-titans",
+      "favorite": false
     },
     {
       "id": 463,
@@ -1259,7 +1355,8 @@
       "publisher": "R2 Games",
       "developer": "GameHollywood",
       "release_date": "2020-04-07",
-      "profile_url": "https://www.mmobomb.com/survivor-legacy"
+      "profile_url": "https://www.mmobomb.com/survivor-legacy",
+      "favorite": false
     },
     {
       "id": 459,
@@ -1272,7 +1369,8 @@
       "publisher": "Giant Duck Games",
       "developer": "Giant Duck Games",
       "release_date": "2020-03-07",
-      "profile_url": "https://www.mmobomb.com/bombergrounds-battle-royale"
+      "profile_url": "https://www.mmobomb.com/bombergrounds-battle-royale",
+      "favorite": false
     },
     {
       "id": 39,
@@ -1285,7 +1383,8 @@
       "publisher": "Scavengers Studio",
       "developer": "Scavengers Studio",
       "release_date": "2020-01-14",
-      "profile_url": "https://www.mmobomb.com/darwin-project"
+      "profile_url": "https://www.mmobomb.com/darwin-project",
+      "favorite": false
     },
     {
       "id": 441,
@@ -1298,7 +1397,8 @@
       "publisher": "Riot Games",
       "developer": "Riot Games",
       "release_date": "2020-01-24",
-      "profile_url": "https://www.mmobomb.com/runeterra"
+      "profile_url": "https://www.mmobomb.com/runeterra",
+      "favorite": false
     },
     {
       "id": 4,
@@ -1311,7 +1411,8 @@
       "publisher": "Gaijin Distribution KFT",
       "developer": "Darkflow Software",
       "release_date": "2019-12-12",
-      "profile_url": "https://www.mmobomb.com/crsed"
+      "profile_url": "https://www.mmobomb.com/crsed",
+      "favorite": false
     },
     {
       "id": 566,
@@ -1324,7 +1425,8 @@
       "publisher": "Bohemia Interactive",
       "developer": "Bohemia Interactive",
       "release_date": "2019-12-06",
-      "profile_url": "https://www.mmobomb.com/ylands"
+      "profile_url": "https://www.mmobomb.com/ylands",
+      "favorite": false
     },
     {
       "id": 1131,
@@ -1337,7 +1439,8 @@
       "publisher": "Retrelon Games LLC",
       "developer": "Retrelon Games LLC",
       "release_date": "2019-12-24",
-      "profile_url": "https://www.mmobomb.com/mirage-online-classic"
+      "profile_url": "https://www.mmobomb.com/mirage-online-classic",
+      "favorite": false
     },
     {
       "id": 436,
@@ -1350,7 +1453,8 @@
       "publisher": "INFERNA LIMITED",
       "developer": "INFERNA LIMITED",
       "release_date": "2019-12-21",
-      "profile_url": "https://www.mmobomb.com/inferna"
+      "profile_url": "https://www.mmobomb.com/inferna",
+      "favorite": false
     },
     {
       "id": 443,
@@ -1363,7 +1467,8 @@
       "publisher": "Gameforge",
       "developer": "Moonmana",
       "release_date": "2019-12-02",
-      "profile_url": "https://www.mmobomb.com/ultimate-pirates"
+      "profile_url": "https://www.mmobomb.com/ultimate-pirates",
+      "favorite": false
     },
     {
       "id": 501,
@@ -1376,7 +1481,8 @@
       "publisher": "Wildworks",
       "developer": "Wildworks",
       "release_date": "2019-12-13",
-      "profile_url": "https://www.mmobomb.com/Feral"
+      "profile_url": "https://www.mmobomb.com/Feral",
+      "favorite": false
     },
     {
       "id": 435,
@@ -1389,7 +1495,8 @@
       "publisher": "Epic Games",
       "developer": "Epic Games",
       "release_date": "2019-11-13",
-      "profile_url": "https://www.mmobomb.com/battlebreakers"
+      "profile_url": "https://www.mmobomb.com/battlebreakers",
+      "favorite": false
     },
     {
       "id": 437,
@@ -1402,7 +1509,8 @@
       "publisher": "Mobile Technologies LLC",
       "developer": "Mobile Technologies LLC",
       "release_date": "2019-11-27",
-      "profile_url": "https://www.mmobomb.com/stay-out"
+      "profile_url": "https://www.mmobomb.com/stay-out",
+      "favorite": false
     },
     {
       "id": 439,
@@ -1415,7 +1523,8 @@
       "publisher": "IDG GAmes",
       "developer": "IDG GAmes",
       "release_date": "2019-11-01",
-      "profile_url": "https://www.mmobomb.com/futbol-legends"
+      "profile_url": "https://www.mmobomb.com/futbol-legends",
+      "favorite": false
     },
     {
       "id": 440,
@@ -1428,7 +1537,8 @@
       "publisher": "R2 Games",
       "developer": "F5 Game Company",
       "release_date": "2019-11-07",
-      "profile_url": "https://www.mmobomb.com/vampire-empire"
+      "profile_url": "https://www.mmobomb.com/vampire-empire",
+      "favorite": false
     },
     {
       "id": 468,
@@ -1441,7 +1551,8 @@
       "publisher": "Holyday Studios",
       "developer": "Holyday Studios",
       "release_date": "2019-09-26",
-      "profile_url": "https://www.mmobomb.com/firestone-idle-rpg"
+      "profile_url": "https://www.mmobomb.com/firestone-idle-rpg",
+      "favorite": false
     },
     {
       "id": 505,
@@ -1454,7 +1565,8 @@
       "publisher": "Rhino Games Inc.",
       "developer": "Rhino Games Inc.",
       "release_date": "2019-09-18",
-      "profile_url": "https://www.mmobomb.com/mythgard"
+      "profile_url": "https://www.mmobomb.com/mythgard",
+      "favorite": false
     },
     {
       "id": 445,
@@ -1467,7 +1579,8 @@
       "publisher": "Opogame",
       "developer": "Opogame",
       "release_date": "2019-08-06",
-      "profile_url": "https://www.mmobomb.com/dark-knight"
+      "profile_url": "https://www.mmobomb.com/dark-knight",
+      "favorite": false
     },
     {
       "id": 446,
@@ -1480,7 +1593,8 @@
       "publisher": "Citadel Studios Inc",
       "developer": "Citadel Studios Inc",
       "release_date": "2019-08-07",
-      "profile_url": "https://www.mmobomb.com/legends-of-aria"
+      "profile_url": "https://www.mmobomb.com/legends-of-aria",
+      "favorite": false
     },
     {
       "id": 451,
@@ -1493,7 +1607,8 @@
       "publisher": "Crunchy Leaf Games",
       "developer": "Crunchy Leaf Game",
       "release_date": "2019-08-30",
-      "profile_url": "https://www.mmobomb.com/crystal-clash"
+      "profile_url": "https://www.mmobomb.com/crystal-clash",
+      "favorite": false
     },
     {
       "id": 447,
@@ -1506,7 +1621,8 @@
       "publisher": "Valve",
       "developer": "Valve",
       "release_date": "2019-06-21",
-      "profile_url": "https://www.mmobomb.com/dota-underlords"
+      "profile_url": "https://www.mmobomb.com/dota-underlords",
+      "favorite": false
     },
     {
       "id": 19,
@@ -1519,7 +1635,8 @@
       "publisher": "Betadwarf",
       "developer": "Betadwarf",
       "release_date": "2019-05-24",
-      "profile_url": "https://www.mmobomb.com/minion-masters"
+      "profile_url": "https://www.mmobomb.com/minion-masters",
+      "favorite": false
     },
     {
       "id": 20,
@@ -1532,7 +1649,8 @@
       "publisher": "1047 Games",
       "developer": "1047 Games",
       "release_date": "2019-05-22",
-      "profile_url": "https://www.mmobomb.com/splitgate-arena-warfare"
+      "profile_url": "https://www.mmobomb.com/splitgate-arena-warfare",
+      "favorite": false
     },
     {
       "id": 456,
@@ -1545,7 +1663,8 @@
       "publisher": "Booming Games",
       "developer": "Booming Games",
       "release_date": "2019-05-30",
-      "profile_url": "https://www.mmobomb.com/conquerors-blade"
+      "profile_url": "https://www.mmobomb.com/conquerors-blade",
+      "favorite": false
     },
     {
       "id": 353,
@@ -1558,7 +1677,8 @@
       "publisher": "PG5-Studio UG",
       "developer": "PG5-Studio UG",
       "release_date": "2019-04-24",
-      "profile_url": "https://www.mmobomb.com/steinworld"
+      "profile_url": "https://www.mmobomb.com/steinworld",
+      "favorite": false
     },
     {
       "id": 438,
@@ -1571,7 +1691,8 @@
       "publisher": "1939 Games",
       "developer": "1939 Games",
       "release_date": "2019-04-12",
-      "profile_url": "https://www.mmobomb.com/kards"
+      "profile_url": "https://www.mmobomb.com/kards",
+      "favorite": false
     },
     {
       "id": 448,
@@ -1584,7 +1705,8 @@
       "publisher": "KOG",
       "developer": "KOG",
       "release_date": "2019-04-30",
-      "profile_url": "https://www.mmobomb.com/kurtzpel"
+      "profile_url": "https://www.mmobomb.com/kurtzpel",
+      "favorite": false
     },
     {
       "id": 457,
@@ -1597,7 +1719,8 @@
       "publisher": "R2 Games",
       "developer": "R2 Games",
       "release_date": "2019-04-29",
-      "profile_url": "https://www.mmobomb.com/the-third-age"
+      "profile_url": "https://www.mmobomb.com/the-third-age",
+      "favorite": false
     },
     {
       "id": 91,
@@ -1610,7 +1733,8 @@
       "publisher": "Dire Wolf Digital",
       "developer": "Dire Wolf Digital",
       "release_date": "2018-11-15",
-      "profile_url": "https://www.mmobomb.com/eternal"
+      "profile_url": "https://www.mmobomb.com/eternal",
+      "favorite": false
     },
     {
       "id": 503,
@@ -1623,7 +1747,8 @@
       "publisher": "Valve",
       "developer": "Valve",
       "release_date": "2018-11-29",
-      "profile_url": "https://www.mmobomb.com/artifact"
+      "profile_url": "https://www.mmobomb.com/artifact",
+      "favorite": false
     },
     {
       "id": 299,
@@ -1636,7 +1761,8 @@
       "publisher": "VALOFE, NEXON",
       "developer": "Doobic Studios",
       "release_date": "2018-10-31",
-      "profile_url": "https://www.mmobomb.com/combat-arms"
+      "profile_url": "https://www.mmobomb.com/combat-arms",
+      "favorite": false
     },
     {
       "id": 68,
@@ -1649,7 +1775,8 @@
       "publisher": "Grey Box",
       "developer": "Yager Development",
       "release_date": "2018-10-14",
-      "profile_url": "https://www.mmobomb.com/dreadnought"
+      "profile_url": "https://www.mmobomb.com/dreadnought",
+      "favorite": false
     },
     {
       "id": 28,
@@ -1662,7 +1789,8 @@
       "publisher": " MercurySteam Entertainment",
       "developer": "MercurySteam",
       "release_date": "2018-09-22",
-      "profile_url": "https://www.mmobomb.com/spacelords"
+      "profile_url": "https://www.mmobomb.com/spacelords",
+      "favorite": false
     },
     {
       "id": 29,
@@ -1675,7 +1803,8 @@
       "publisher": "Tencent Games",
       "developer": "Tencent Games",
       "release_date": "2018-09-19",
-      "profile_url": "https://www.mmobomb.com/ring-of-elysium"
+      "profile_url": "https://www.mmobomb.com/ring-of-elysium",
+      "favorite": false
     },
     {
       "id": 1135,
@@ -1688,7 +1817,8 @@
       "publisher": "MY.GAMES, The 4 Winds Entertainment",
       "developer": "The Farm 51",
       "release_date": "2018-09-19",
-      "profile_url": "https://www.mmobomb.com/world-war-3"
+      "profile_url": "https://www.mmobomb.com/world-war-3",
+      "favorite": false
     },
     {
       "id": 450,
@@ -1701,7 +1831,8 @@
       "publisher": "Stunlock Studios",
       "developer": "Stunlock Studios",
       "release_date": "2018-09-26",
-      "profile_url": "https://www.mmobomb.com/battlerite-royale"
+      "profile_url": "https://www.mmobomb.com/battlerite-royale",
+      "favorite": false
     },
     {
       "id": 454,
@@ -1714,7 +1845,8 @@
       "publisher": "Wizards of the Coast",
       "developer": "Wizards of the Coast",
       "release_date": "2018-09-27",
-      "profile_url": "https://www.mmobomb.com/mtg-arena"
+      "profile_url": "https://www.mmobomb.com/mtg-arena",
+      "favorite": false
     },
     {
       "id": 341,
@@ -1727,7 +1859,8 @@
       "publisher": "GTArcade Entertainment",
       "developer": "GTArcade Entertainment",
       "release_date": "2018-08-14",
-      "profile_url": "https://www.mmobomb.com/league-of-angels-3"
+      "profile_url": "https://www.mmobomb.com/league-of-angels-3",
+      "favorite": false
     },
     {
       "id": 282,
@@ -1740,7 +1873,8 @@
       "publisher": "Papaya Play",
       "developer": "Vertigo Games",
       "release_date": "2018-07-27",
-      "profile_url": "https://www.mmobomb.com/blackshot"
+      "profile_url": "https://www.mmobomb.com/blackshot",
+      "favorite": false
     },
     {
       "id": 31,
@@ -1753,7 +1887,8 @@
       "publisher": "Pegnio Ltd",
       "developer": "Pegnio Ltd",
       "release_date": "2018-06-27",
-      "profile_url": "https://www.mmobomb.com/cosmos-invictus"
+      "profile_url": "https://www.mmobomb.com/cosmos-invictus",
+      "favorite": false
     },
     {
       "id": 36,
@@ -1766,7 +1901,8 @@
       "publisher": "Hi-Rez Studios",
       "developer": "Hi-Rez Studios",
       "release_date": "2018-06-05",
-      "profile_url": "https://www.mmobomb.com/realm-royale"
+      "profile_url": "https://www.mmobomb.com/realm-royale",
+      "favorite": false
     },
     {
       "id": 460,
@@ -1779,7 +1915,8 @@
       "publisher": "Goodgame Studios",
       "developer": "Goodgame Studios",
       "release_date": "2018-06-28",
-      "profile_url": "https://www.mmobomb.com/empireww3"
+      "profile_url": "https://www.mmobomb.com/empireww3",
+      "favorite": false
     },
     {
       "id": 506,
@@ -1792,7 +1929,8 @@
       "publisher": "Landfall",
       "developer": "Landfall",
       "release_date": "2018-06-06",
-      "profile_url": "https://www.mmobomb.com/tabg"
+      "profile_url": "https://www.mmobomb.com/tabg",
+      "favorite": false
     },
     {
       "id": 434,
@@ -1805,7 +1943,8 @@
       "publisher": "AlphaSoft LLC",
       "developer": "AlphaSoft LLC",
       "release_date": "2018-04-05",
-      "profile_url": "https://www.mmobomb.com/will-to-live"
+      "profile_url": "https://www.mmobomb.com/will-to-live",
+      "favorite": false
     },
     {
       "id": 42,
@@ -1818,7 +1957,8 @@
       "publisher": "Frogsong Studios AB",
       "developer": "Frogsong Studios AB",
       "release_date": "2018-03-13",
-      "profile_url": "https://www.mmobomb.com/spellsworn"
+      "profile_url": "https://www.mmobomb.com/spellsworn",
+      "favorite": false
     },
     {
       "id": 43,
@@ -1831,7 +1971,8 @@
       "publisher": "Daybreak Game Company",
       "developer": "Daybreak Game Company",
       "release_date": "2018-02-28",
-      "profile_url": "https://www.mmobomb.com/z1-battle-royale"
+      "profile_url": "https://www.mmobomb.com/z1-battle-royale",
+      "favorite": false
     },
     {
       "id": 44,
@@ -1844,7 +1985,8 @@
       "publisher": "Toasty Leaf AB",
       "developer": "Toasty Leaf AB",
       "release_date": "2018-02-23",
-      "profile_url": "https://www.mmobomb.com/tale-of-toast"
+      "profile_url": "https://www.mmobomb.com/tale-of-toast",
+      "favorite": false
     },
     {
       "id": 47,
@@ -1857,7 +1999,8 @@
       "publisher": "David Schneider",
       "developer": "David Schneider",
       "release_date": "2018-02-12",
-      "profile_url": "https://www.mmobomb.com/bombtag"
+      "profile_url": "https://www.mmobomb.com/bombtag",
+      "favorite": false
     },
     {
       "id": 48,
@@ -1870,7 +2013,8 @@
       "publisher": "Aeria Games",
       "developer": "Wiple Games",
       "release_date": "2018-02-01",
-      "profile_url": "https://www.mmobomb.com/ironsight"
+      "profile_url": "https://www.mmobomb.com/ironsight",
+      "favorite": false
     },
     {
       "id": 49,
@@ -1883,7 +2027,8 @@
       "publisher": "801",
       "developer": "801",
       "release_date": "2018-02-13",
-      "profile_url": "https://www.mmobomb.com/dead-maze"
+      "profile_url": "https://www.mmobomb.com/dead-maze",
+      "favorite": false
     },
     {
       "id": 316,
@@ -1896,7 +2041,8 @@
       "publisher": "NETGAME Inc",
       "developer": "MGAME Corporation",
       "release_date": "2018-01-30",
-      "profile_url": "https://www.mmobomb.com/scions-of-fate"
+      "profile_url": "https://www.mmobomb.com/scions-of-fate",
+      "favorite": false
     },
     {
       "id": 342,
@@ -1909,7 +2055,8 @@
       "publisher": "Gamesprite",
       "developer": "Gamesprite",
       "release_date": "2018-01-01",
-      "profile_url": "https://www.mmobomb.com/my-soul"
+      "profile_url": "https://www.mmobomb.com/my-soul",
+      "favorite": false
     },
     {
       "id": 22,
@@ -1922,7 +2069,8 @@
       "publisher": "Juvty Worlds Ltd.",
       "developer": "Juvty Worlds Ltd.",
       "release_date": "2017-12-18",
-      "profile_url": "https://www.mmobomb.com/wild-terra-online"
+      "profile_url": "https://www.mmobomb.com/wild-terra-online",
+      "favorite": false
     },
     {
       "id": 52,
@@ -1935,7 +2083,8 @@
       "publisher": "En Masse Entertainment",
       "developer": "Naddic Games",
       "release_date": "2017-12-19",
-      "profile_url": "https://www.mmobomb.com/closers"
+      "profile_url": "https://www.mmobomb.com/closers",
+      "favorite": false
     },
     {
       "id": 322,
@@ -1948,7 +2097,8 @@
       "publisher": "Papaya Play",
       "developer": "Actoz Soft",
       "release_date": "2017-11-17",
-      "profile_url": "https://www.mmobomb.com/la-tale"
+      "profile_url": "https://www.mmobomb.com/la-tale",
+      "favorite": false
     },
     {
       "id": 120,
@@ -1961,7 +2111,8 @@
       "publisher": "Suba Games",
       "developer": "Suba Games",
       "release_date": "2017-10-17",
-      "profile_url": "https://www.mmobomb.com/luna-online"
+      "profile_url": "https://www.mmobomb.com/luna-online",
+      "favorite": false
     },
     {
       "id": 695,
@@ -1974,7 +2125,8 @@
       "publisher": "Bytro Labs",
       "developer": "Bytro Labs",
       "release_date": "2017-10-21",
-      "profile_url": "https://www.mmobomb.com/call-of-war"
+      "profile_url": "https://www.mmobomb.com/call-of-war",
+      "favorite": false
     },
     {
       "id": 58,
@@ -1987,7 +2139,8 @@
       "publisher": "Ediogames",
       "developer": "Ediogames",
       "release_date": "2017-09-12",
-      "profile_url": "https://www.mmobomb.com/the-ultimatest-battle"
+      "profile_url": "https://www.mmobomb.com/the-ultimatest-battle",
+      "favorite": false
     },
     {
       "id": 59,
@@ -2000,7 +2153,8 @@
       "publisher": "Bad Seed",
       "developer": "Bad Seed",
       "release_date": "2017-09-07",
-      "profile_url": "https://www.mmobomb.com/insidia"
+      "profile_url": "https://www.mmobomb.com/insidia",
+      "favorite": false
     },
     {
       "id": 30,
@@ -2013,7 +2167,8 @@
       "publisher": "Bethesda Softworks",
       "developer": "id Software",
       "release_date": "2017-08-22",
-      "profile_url": "https://www.mmobomb.com/quake-champions"
+      "profile_url": "https://www.mmobomb.com/quake-champions",
+      "favorite": false
     },
     {
       "id": 354,
@@ -2026,7 +2181,8 @@
       "publisher": "VivaGame",
       "developer": "VivaGame",
       "release_date": "2017-08-29",
-      "profile_url": "https://www.mmobomb.com/gods-origin"
+      "profile_url": "https://www.mmobomb.com/gods-origin",
+      "favorite": false
     },
     {
       "id": 61,
@@ -2039,7 +2195,8 @@
       "publisher": "NEOWIZ",
       "developer": "NS Studio",
       "release_date": "2017-07-28",
-      "profile_url": "https://www.mmobomb.com/black-squad"
+      "profile_url": "https://www.mmobomb.com/black-squad",
+      "favorite": false
     },
     {
       "id": 63,
@@ -2052,7 +2209,8 @@
       "publisher": "Bohemia Interactive",
       "developer": "Bohemia Interactive",
       "release_date": "2017-06-22",
-      "profile_url": "https://www.mmobomb.com/argo"
+      "profile_url": "https://www.mmobomb.com/argo",
+      "favorite": false
     },
     {
       "id": 65,
@@ -2065,7 +2223,8 @@
       "publisher": "Kukouri Mobile Entertainment ",
       "developer": "Kukouri Mobile Entertainment ",
       "release_date": "2017-06-09",
-      "profile_url": "https://www.mmobomb.com/pixel-worlds"
+      "profile_url": "https://www.mmobomb.com/pixel-worlds",
+      "favorite": false
     },
     {
       "id": 55,
@@ -2078,7 +2237,8 @@
       "publisher": "Automaton",
       "developer": "Automaton",
       "release_date": "2017-05-03",
-      "profile_url": "https://www.mmobomb.com/deceit"
+      "profile_url": "https://www.mmobomb.com/deceit",
+      "favorite": false
     },
     {
       "id": 66,
@@ -2091,7 +2251,8 @@
       "publisher": "CD Projekt Red",
       "developer": "CD Projekt Red",
       "release_date": "2017-05-24",
-      "profile_url": "https://www.mmobomb.com/gwent"
+      "profile_url": "https://www.mmobomb.com/gwent",
+      "favorite": false
     },
     {
       "id": 67,
@@ -2104,7 +2265,8 @@
       "publisher": "Ronimo Games",
       "developer": "Ronimo Games",
       "release_date": "2017-05-24",
-      "profile_url": "https://www.mmobomb.com/awesomenauts"
+      "profile_url": "https://www.mmobomb.com/awesomenauts",
+      "favorite": false
     },
     {
       "id": 70,
@@ -2117,7 +2279,8 @@
       "publisher": "Reactive Drop",
       "developer": "Reactive Drop",
       "release_date": "2017-04-20",
-      "profile_url": "https://www.mmobomb.com/alien-swarm-reactive-drop"
+      "profile_url": "https://www.mmobomb.com/alien-swarm-reactive-drop",
+      "favorite": false
     },
     {
       "id": 71,
@@ -2130,7 +2293,8 @@
       "publisher": "United Soft Media",
       "developer": "Exozet",
       "release_date": "2017-04-25",
-      "profile_url": "https://www.mmobomb.com/catan-universe"
+      "profile_url": "https://www.mmobomb.com/catan-universe",
+      "favorite": false
     },
     {
       "id": 72,
@@ -2143,7 +2307,8 @@
       "publisher": "Ankama Games",
       "developer": "Ankama Studio",
       "release_date": "2017-04-12",
-      "profile_url": "https://www.mmobomb.com/krosmaga"
+      "profile_url": "https://www.mmobomb.com/krosmaga",
+      "favorite": false
     },
     {
       "id": 355,
@@ -2156,7 +2321,8 @@
       "publisher": "AMZ Games",
       "developer": "AMZ Games",
       "release_date": "2017-04-10",
-      "profile_url": "https://www.mmobomb.com/chronicles-of-eidola"
+      "profile_url": "https://www.mmobomb.com/chronicles-of-eidola",
+      "favorite": false
     },
     {
       "id": 77,
@@ -2169,7 +2335,8 @@
       "publisher": "My.com",
       "developer": "NetEase",
       "release_date": "2017-03-06",
-      "profile_url": "https://www.mmobomb.com/revelation-online"
+      "profile_url": "https://www.mmobomb.com/revelation-online",
+      "favorite": false
     },
     {
       "id": 87,
@@ -2182,7 +2349,8 @@
       "publisher": "VALOFE",
       "developer": "VALOFE",
       "release_date": "2017-03-23",
-      "profile_url": "https://www.mmobomb.com/mu-legend"
+      "profile_url": "https://www.mmobomb.com/mu-legend",
+      "favorite": false
     },
     {
       "id": 421,
@@ -2195,7 +2363,8 @@
       "publisher": "Gameforge",
       "developer": "Virtys",
       "release_date": "2017-03-27",
-      "profile_url": "https://www.mmobomb.com/therian-saga"
+      "profile_url": "https://www.mmobomb.com/therian-saga",
+      "favorite": false
     },
     {
       "id": 557,
@@ -2208,7 +2377,8 @@
       "publisher": "Bytro Labs",
       "developer": "Gamefabrik",
       "release_date": "2017-02-14",
-      "profile_url": "https://www.mmobomb.com/mars-tomorrow"
+      "profile_url": "https://www.mmobomb.com/mars-tomorrow",
+      "favorite": false
     },
     {
       "id": 69,
@@ -2221,7 +2391,8 @@
       "publisher": "BISBOG SA",
       "developer": "Kyy Games",
       "release_date": "2017-02-08",
-      "profile_url": "https://www.mmobomb.com/cabals-card-blitz"
+      "profile_url": "https://www.mmobomb.com/cabals-card-blitz",
+      "favorite": false
     },
     {
       "id": 82,
@@ -2234,7 +2405,8 @@
       "publisher": "BlackSpot Entertainment",
       "developer": "BlackSpot Entertainment",
       "release_date": "2017-01-31",
-      "profile_url": "https://www.mmobomb.com/line-of-sight"
+      "profile_url": "https://www.mmobomb.com/line-of-sight",
+      "favorite": false
     },
     {
       "id": 83,
@@ -2247,7 +2419,8 @@
       "publisher": "Hoplon",
       "developer": "Hoplon",
       "release_date": "2017-01-31",
-      "profile_url": "https://www.mmobomb.com/heavy-metal-machines"
+      "profile_url": "https://www.mmobomb.com/heavy-metal-machines",
+      "favorite": false
     },
     {
       "id": 343,
@@ -2260,7 +2433,8 @@
       "publisher": "Proficient city",
       "developer": "Game Hollywood",
       "release_date": "2017-01-03",
-      "profile_url": "https://www.mmobomb.com/dragon-awaken"
+      "profile_url": "https://www.mmobomb.com/dragon-awaken",
+      "favorite": false
     },
     {
       "id": 630,
@@ -2273,7 +2447,8 @@
       "publisher": "Bytro Labs",
       "developer": "Dorado Games",
       "release_date": "2016-12-01",
-      "profile_url": "https://www.mmobomb.com/conflict-of-nations"
+      "profile_url": "https://www.mmobomb.com/conflict-of-nations",
+      "favorite": false
     },
     {
       "id": 85,
@@ -2286,7 +2461,8 @@
       "publisher": "OP Productions LLC",
       "developer": "Fredaikis AB",
       "release_date": "2016-11-22",
-      "profile_url": "https://www.mmobomb.com/infestation-new-z"
+      "profile_url": "https://www.mmobomb.com/infestation-new-z",
+      "favorite": false
     },
     {
       "id": 92,
@@ -2299,7 +2475,8 @@
       "publisher": "SkyReacher Entertainment",
       "developer": "SkyReacher Entertainment",
       "release_date": "2016-11-11",
-      "profile_url": "https://www.mmobomb.com/one-tower"
+      "profile_url": "https://www.mmobomb.com/one-tower",
+      "favorite": false
     },
     {
       "id": 88,
@@ -2312,7 +2489,8 @@
       "publisher": "Cygames, Inc.",
       "developer": "Cygames, Inc.",
       "release_date": "2016-10-28",
-      "profile_url": "https://www.mmobomb.com/shadowverse"
+      "profile_url": "https://www.mmobomb.com/shadowverse",
+      "favorite": false
     },
     {
       "id": 89,
@@ -2325,7 +2503,8 @@
       "publisher": "Artix Entertainment",
       "developer": "Artix Entertainment",
       "release_date": "2016-10-19",
-      "profile_url": "https://www.mmobomb.com/adventurequest-3d"
+      "profile_url": "https://www.mmobomb.com/adventurequest-3d",
+      "favorite": false
     },
     {
       "id": 93,
@@ -2338,7 +2517,8 @@
       "publisher": "Artplant",
       "developer": "Artplant",
       "release_date": "2016-09-27",
-      "profile_url": "https://www.mmobomb.com/riding-club-championships"
+      "profile_url": "https://www.mmobomb.com/riding-club-championships",
+      "favorite": false
     },
     {
       "id": 94,
@@ -2351,7 +2531,8 @@
       "publisher": "Stunlock Studios",
       "developer": "Stunlock Studios",
       "release_date": "2016-09-21",
-      "profile_url": "https://www.mmobomb.com/battlerite"
+      "profile_url": "https://www.mmobomb.com/battlerite",
+      "favorite": false
     },
     {
       "id": 95,
@@ -2364,7 +2545,8 @@
       "publisher": "Hi-Rez Studios",
       "developer": "Hi-Rez Studios",
       "release_date": "2016-09-16",
-      "profile_url": "https://www.mmobomb.com/paladins"
+      "profile_url": "https://www.mmobomb.com/paladins",
+      "favorite": false
     },
     {
       "id": 99,
@@ -2377,7 +2559,8 @@
       "publisher": "ZiMAD, Inc.",
       "developer": "ZiMAD, Inc.",
       "release_date": "2016-09-08",
-      "profile_url": "https://www.mmobomb.com/star-crusade"
+      "profile_url": "https://www.mmobomb.com/star-crusade",
+      "favorite": false
     },
     {
       "id": 344,
@@ -2390,7 +2573,8 @@
       "publisher": "Proficient City",
       "developer": "Game Hollywood",
       "release_date": "2016-08-25",
-      "profile_url": "https://www.mmobomb.com/omega-zodiac"
+      "profile_url": "https://www.mmobomb.com/omega-zodiac",
+      "favorite": false
     },
     {
       "id": 102,
@@ -2403,7 +2587,8 @@
       "publisher": "Bethesda Softworks",
       "developer": "Bethesda Softworks",
       "release_date": "2016-08-04",
-      "profile_url": "https://www.mmobomb.com/elder-scrolls-legends"
+      "profile_url": "https://www.mmobomb.com/elder-scrolls-legends",
+      "favorite": false
     },
     {
       "id": 106,
@@ -2416,7 +2601,8 @@
       "publisher": "VALOFE",
       "developer": "WeMade",
       "release_date": "2016-07-06",
-      "profile_url": "https://www.mmobomb.com/riders-of-icarus"
+      "profile_url": "https://www.mmobomb.com/riders-of-icarus",
+      "favorite": false
     },
     {
       "id": 365,
@@ -2429,7 +2615,8 @@
       "publisher": "OAS Games",
       "developer": "Bandai Namco",
       "release_date": "2016-07-20",
-      "profile_url": "https://www.mmobomb.com/naruto-online"
+      "profile_url": "https://www.mmobomb.com/naruto-online",
+      "favorite": false
     },
     {
       "id": 62,
@@ -2442,7 +2629,8 @@
       "publisher": "ALLM Co.",
       "developer": "ALLM Co.",
       "release_date": "2016-06-08",
-      "profile_url": "https://www.mmobomb.com/kritika"
+      "profile_url": "https://www.mmobomb.com/kritika",
+      "favorite": false
     },
     {
       "id": 108,
@@ -2455,7 +2643,8 @@
       "publisher": "IDC/Games",
       "developer": "IDC/Games",
       "release_date": "2016-06-23",
-      "profile_url": "https://www.mmobomb.com/zula"
+      "profile_url": "https://www.mmobomb.com/zula",
+      "favorite": false
     },
     {
       "id": 109,
@@ -2468,7 +2657,8 @@
       "publisher": "DiP Online",
       "developer": "DiP Online",
       "release_date": "2016-06-15",
-      "profile_url": "https://www.mmobomb.com/luckcatchers"
+      "profile_url": "https://www.mmobomb.com/luckcatchers",
+      "favorite": false
     },
     {
       "id": 110,
@@ -2481,11 +2671,12 @@
       "publisher": "Bad Pixel",
       "developer": "Bad Pixel",
       "release_date": "2016-06-08",
-      "profile_url": "https://www.mmobomb.com/ufo-online-invasion"
+      "profile_url": "https://www.mmobomb.com/ufo-online-invasion",
+      "favorite": false
     },
     {
       "id": 367,
-      "title": "SAO\u2019s Legend",
+      "title": "SAO’s Legend",
       "thumbnail": "https://www.mmobomb.com/g/367/thumbnail.jpg",
       "short_description": "Explore the world of the popular anime Sword Art Online in SAO's Legend, a free-to-play browser MMORPG from GameSprite.me. Journey through a vast world and take on challenging dungeons to level up your character and your gear, and you'll even find a few friends along the way, both real and AI!",
       "game_url": "https://www.mmobomb.com/open/saos-legend",
@@ -2494,7 +2685,8 @@
       "publisher": "GameSprite",
       "developer": "Raycreator Inc.",
       "release_date": "2016-06-24",
-      "profile_url": "https://www.mmobomb.com/saos-legend"
+      "profile_url": "https://www.mmobomb.com/saos-legend",
+      "favorite": false
     },
     {
       "id": 112,
@@ -2507,7 +2699,8 @@
       "publisher": "IDC/Games",
       "developer": "Gamemag",
       "release_date": "2016-06-07",
-      "profile_url": "https://www.mmobomb.com/weapons-of-mythology"
+      "profile_url": "https://www.mmobomb.com/weapons-of-mythology",
+      "favorite": false
     },
     {
       "id": 116,
@@ -2520,7 +2713,8 @@
       "publisher": "IMC Games",
       "developer": "IMC Games",
       "release_date": "2016-05-10",
-      "profile_url": "https://www.mmobomb.com/tree-of-savior"
+      "profile_url": "https://www.mmobomb.com/tree-of-savior",
+      "favorite": false
     },
     {
       "id": 118,
@@ -2533,7 +2727,8 @@
       "publisher": "Crunchy Games",
       "developer": "Crunchy Games",
       "release_date": "2016-05-10",
-      "profile_url": "https://www.mmobomb.com/starbreak"
+      "profile_url": "https://www.mmobomb.com/starbreak",
+      "favorite": false
     },
     {
       "id": 119,
@@ -2546,7 +2741,8 @@
       "publisher": "Cold Tea Studio ",
       "developer": "Cold Tea Studio ",
       "release_date": "2016-05-06",
-      "profile_url": "https://www.mmobomb.com/fantasy-tales-online"
+      "profile_url": "https://www.mmobomb.com/fantasy-tales-online",
+      "favorite": false
     },
     {
       "id": 370,
@@ -2559,7 +2755,8 @@
       "publisher": "101XP",
       "developer": "101XP",
       "release_date": "2016-04-16",
-      "profile_url": "https://www.mmobomb.com/dragon-blood"
+      "profile_url": "https://www.mmobomb.com/dragon-blood",
+      "favorite": false
     },
     {
       "id": 371,
@@ -2572,7 +2769,8 @@
       "publisher": "GTArcade",
       "developer": "GTArcade",
       "release_date": "2016-04-06",
-      "profile_url": "https://www.mmobomb.com/league-angels-2"
+      "profile_url": "https://www.mmobomb.com/league-angels-2",
+      "favorite": false
     },
     {
       "id": 117,
@@ -2585,7 +2783,8 @@
       "publisher": "Apus Software",
       "developer": "Apus Software",
       "release_date": "2016-03-15",
-      "profile_url": "https://www.mmobomb.com/astral-heroes"
+      "profile_url": "https://www.mmobomb.com/astral-heroes",
+      "favorite": false
     },
     {
       "id": 124,
@@ -2598,7 +2797,8 @@
       "publisher": "Versus Evil",
       "developer": "BitCake Studio",
       "release_date": "2016-03-24",
-      "profile_url": "https://www.mmobomb.com/holodrive"
+      "profile_url": "https://www.mmobomb.com/holodrive",
+      "favorite": false
     },
     {
       "id": 304,
@@ -2611,7 +2811,8 @@
       "publisher": "ESTsoft",
       "developer": "ESTsoft",
       "release_date": "2016-02-17",
-      "profile_url": "https://www.mmobomb.com/cabal-online"
+      "profile_url": "https://www.mmobomb.com/cabal-online",
+      "favorite": false
     },
     {
       "id": 125,
@@ -2624,7 +2825,8 @@
       "publisher": "Atom Republic",
       "developer": "Atom Republic",
       "release_date": "2016-02-27",
-      "profile_url": "https://www.mmobomb.com/atom-universe"
+      "profile_url": "https://www.mmobomb.com/atom-universe",
+      "favorite": false
     },
     {
       "id": 128,
@@ -2637,7 +2839,8 @@
       "publisher": "Dream Reactor",
       "developer": "Dream Reactor",
       "release_date": "2016-02-02",
-      "profile_url": "https://www.mmobomb.com/spellweaver"
+      "profile_url": "https://www.mmobomb.com/spellweaver",
+      "favorite": false
     },
     {
       "id": 6,
@@ -2650,20 +2853,22 @@
       "publisher": "NCSoft",
       "developer": "NCSoft",
       "release_date": "2016-01-19",
-      "profile_url": "https://www.mmobomb.com/blade-and-soul"
+      "profile_url": "https://www.mmobomb.com/blade-and-soul",
+      "favorite": false
     },
     {
       "id": 374,
       "title": "Clash of Avatars",
       "thumbnail": "https://www.mmobomb.com/g/374/thumbnail.jpg",
-      "short_description": "Clash of Avatars is a free to play browser-based ARPG with simple controls and ease of play that\u2019s virtually unrivaled in the realm of online gaming. It\u2019s light-hearted, casual fun with a bright and cheery anime style that\u2019s evident even when you\u2019re hacking through scores of enemies.",
+      "short_description": "Clash of Avatars is a free to play browser-based ARPG with simple controls and ease of play that’s virtually unrivaled in the realm of online gaming. It’s light-hearted, casual fun with a bright and cheery anime style that’s evident even when you’re hacking through scores of enemies.",
       "game_url": "https://www.mmobomb.com/open/clash-of-avatars",
       "genre": "MMORPG",
       "platform": "Web Browser",
       "publisher": "AMZgame",
       "developer": "AMZgame",
       "release_date": "2016-01-19",
-      "profile_url": "https://www.mmobomb.com/clash-of-avatars"
+      "profile_url": "https://www.mmobomb.com/clash-of-avatars",
+      "favorite": false
     },
     {
       "id": 134,
@@ -2676,20 +2881,22 @@
       "publisher": "Rocketeer Games",
       "developer": "Rocketeer Games",
       "release_date": "2015-12-23",
-      "profile_url": "https://www.mmobomb.com/wt3"
+      "profile_url": "https://www.mmobomb.com/wt3",
+      "favorite": false
     },
     {
       "id": 136,
       "title": "VEGA Conflict",
       "thumbnail": "https://www.mmobomb.com/g/136/thumbnail.jpg",
-      "short_description": "VEGA Conflict is a Cross-Platform free to play 2D browser based sci-fi strategy MMO. VEGA Conflict requires players to take on the role of space minters and seek absolute control over the scarce resources found in the sectors\u2019 asteroids.",
+      "short_description": "VEGA Conflict is a Cross-Platform free to play 2D browser based sci-fi strategy MMO. VEGA Conflict requires players to take on the role of space minters and seek absolute control over the scarce resources found in the sectors’ asteroids.",
       "game_url": "https://www.mmobomb.com/open/vega-conflict",
       "genre": "Strategy",
       "platform": "PC (Windows)",
       "publisher": "KIXEYE",
       "developer": "KIXEYE",
       "release_date": "2015-12-15",
-      "profile_url": "https://www.mmobomb.com/vega-conflict"
+      "profile_url": "https://www.mmobomb.com/vega-conflict",
+      "favorite": false
     },
     {
       "id": 137,
@@ -2702,7 +2909,8 @@
       "publisher": "GDT Limited",
       "developer": "GDT Limited",
       "release_date": "2015-12-11",
-      "profile_url": "https://www.mmobomb.com/metal-war-online"
+      "profile_url": "https://www.mmobomb.com/metal-war-online",
+      "favorite": false
     },
     {
       "id": 139,
@@ -2715,7 +2923,8 @@
       "publisher": "Tactic Studios Inc.",
       "developer": "Tactic Studios Inc.",
       "release_date": "2015-12-03",
-      "profile_url": "https://www.mmobomb.com/immortal-empire"
+      "profile_url": "https://www.mmobomb.com/immortal-empire",
+      "favorite": false
     },
     {
       "id": 222,
@@ -2728,20 +2937,22 @@
       "publisher": "Piranha Games Inc.",
       "developer": "Piranha Games Inc.",
       "release_date": "2015-12-10",
-      "profile_url": "https://www.mmobomb.com/mechwarrior-online"
+      "profile_url": "https://www.mmobomb.com/mechwarrior-online",
+      "favorite": false
     },
     {
       "id": 212,
       "title": "Brawlhalla",
       "thumbnail": "https://www.mmobomb.com/g/212/thumbnail.jpg",
-      "short_description": "Brawlhalla is a fast-paced, frenetic smash-em-up like no other! OK, it's a little like that one \u201cSmash\u201d game, with plenty of interesting characters, weapons, environments, and many, many ways to die, horribly and comedically.",
+      "short_description": "Brawlhalla is a fast-paced, frenetic smash-em-up like no other! OK, it's a little like that one “Smash” game, with plenty of interesting characters, weapons, environments, and many, many ways to die, horribly and comedically.",
       "game_url": "https://www.mmobomb.com/open/brawlhalla",
       "genre": "Fighting",
       "platform": "PC (Windows)",
       "publisher": "Blue Mammoth Games",
       "developer": "Blue Mammoth Games",
       "release_date": "2015-11-03",
-      "profile_url": "https://www.mmobomb.com/brawlhalla"
+      "profile_url": "https://www.mmobomb.com/brawlhalla",
+      "favorite": false
     },
     {
       "id": 7,
@@ -2754,11 +2965,12 @@
       "publisher": "My.com (Mail.ru Group)",
       "developer": "Obsidian Entertainment",
       "release_date": "2015-10-08",
-      "profile_url": "https://www.mmobomb.com/armored-warfare"
+      "profile_url": "https://www.mmobomb.com/armored-warfare",
+      "favorite": false
     },
     {
       "id": 149,
-      "title": "America\u2019s Army: Proving Grounds",
+      "title": "America’s Army: Proving Grounds",
       "thumbnail": "https://www.mmobomb.com/g/149/thumbnail.jpg",
       "short_description": "America's Army: Proving Grounds is one of the most popular free PC online action games. Created with fun in mind but also as a recruitment tool to the army, it offers players the most realistic military experience available, from exploring the improvement of soldiers in individual and collective training to their deployment in simulated missions in the War on Terror.",
       "game_url": "https://www.mmobomb.com/open/americas-army",
@@ -2767,7 +2979,8 @@
       "publisher": "U.S. Army",
       "developer": "U.S. Army",
       "release_date": "2015-10-01",
-      "profile_url": "https://www.mmobomb.com/americas-army"
+      "profile_url": "https://www.mmobomb.com/americas-army",
+      "favorite": false
     },
     {
       "id": 346,
@@ -2780,7 +2993,8 @@
       "publisher": "JoyGames",
       "developer": "JoyGames",
       "release_date": "2015-09-25",
-      "profile_url": "https://www.mmobomb.com/one-piece-online-2"
+      "profile_url": "https://www.mmobomb.com/one-piece-online-2",
+      "favorite": false
     },
     {
       "id": 97,
@@ -2793,7 +3007,8 @@
       "publisher": "GmbH",
       "developer": "Drago Entertainment",
       "release_date": "2015-09-10",
-      "profile_url": "https://www.mmobomb.com/otherland"
+      "profile_url": "https://www.mmobomb.com/otherland",
+      "favorite": false
     },
     {
       "id": 121,
@@ -2806,7 +3021,8 @@
       "publisher": "Microsoft",
       "developer": "Turn 10",
       "release_date": "2015-09-15",
-      "profile_url": "https://www.mmobomb.com/forza-motorsport-6-apex"
+      "profile_url": "https://www.mmobomb.com/forza-motorsport-6-apex",
+      "favorite": false
     },
     {
       "id": 383,
@@ -2819,7 +3035,8 @@
       "publisher": "Goodgame Empire",
       "developer": "Goodgame Studios",
       "release_date": "2015-08-20",
-      "profile_url": "https://www.mmobomb.com/legends-of-honor"
+      "profile_url": "https://www.mmobomb.com/legends-of-honor",
+      "favorite": false
     },
     {
       "id": 384,
@@ -2832,33 +3049,36 @@
       "publisher": "37Games",
       "developer": "37Games Entertainment",
       "release_date": "2015-08-07",
-      "profile_url": "https://www.mmobomb.com/felspire"
+      "profile_url": "https://www.mmobomb.com/felspire",
+      "favorite": false
     },
     {
       "id": 152,
       "title": "WARMODE",
       "thumbnail": "https://www.mmobomb.com/g/152/thumbnail.jpg",
-      "short_description": "Imagine this you are stuck in a world defined by two confrontational, irreconcilable sides\u037e represented by the government military housings, and the armed hirelings. Try your hand at virtual battles with fast paced gameplay and off-scale dynamics in the spirit of all classic shooter games before.",
+      "short_description": "Imagine this you are stuck in a world defined by two confrontational, irreconcilable sides; represented by the government military housings, and the armed hirelings. Try your hand at virtual battles with fast paced gameplay and off-scale dynamics in the spirit of all classic shooter games before.",
       "game_url": "https://www.mmobomb.com/open/warmode",
       "genre": "Shooter",
       "platform": "PC (Windows)",
       "publisher": "WARTEAM",
       "developer": "WARTEAM",
       "release_date": "2015-08-26",
-      "profile_url": "https://www.mmobomb.com/warmode"
+      "profile_url": "https://www.mmobomb.com/warmode",
+      "favorite": false
     },
     {
       "id": 154,
       "title": "Sphere 3: Enchanted World",
       "thumbnail": "https://www.mmobomb.com/g/154/thumbnail.jpg",
-      "short_description": "Sphere III: Enchanted World is a 3D fantasy action MMORPG that was published by Nikita Online. Use the game\u2019s unique non-target combat system and participate in the PvP that is a strong focus in Sphere III.",
+      "short_description": "Sphere III: Enchanted World is a 3D fantasy action MMORPG that was published by Nikita Online. Use the game’s unique non-target combat system and participate in the PvP that is a strong focus in Sphere III.",
       "game_url": "https://www.mmobomb.com/open/sphere-3",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
       "publisher": "NIKITA ONLINE",
       "developer": "NIKITA ONLINE",
       "release_date": "2015-08-18",
-      "profile_url": "https://www.mmobomb.com/sphere-3"
+      "profile_url": "https://www.mmobomb.com/sphere-3",
+      "favorite": false
     },
     {
       "id": 157,
@@ -2871,7 +3091,8 @@
       "publisher": "Fishing Planet LLC",
       "developer": "Fishing Planet LLC",
       "release_date": "2015-08-11",
-      "profile_url": "https://www.mmobomb.com/fishing-planet"
+      "profile_url": "https://www.mmobomb.com/fishing-planet",
+      "favorite": false
     },
     {
       "id": 8,
@@ -2884,33 +3105,36 @@
       "publisher": "Trion Worlds",
       "developer": "Trion Worlds",
       "release_date": "2015-07-09",
-      "profile_url": "https://www.mmobomb.com/trove"
+      "profile_url": "https://www.mmobomb.com/trove",
+      "favorite": false
     },
     {
       "id": 386,
       "title": "Aberoth",
       "thumbnail": "https://www.mmobomb.com/g/386/thumbnail.jpg",
-      "short_description": "Adventure, magic, and fantasy await you in Aberoth, a free-to-play MMORPG crafted in the retro graphics of days gone by! Don\u2019t let the graphics fool you, though, for Aberoth offers much to players who dare to embark on the path it offers.",
+      "short_description": "Adventure, magic, and fantasy await you in Aberoth, a free-to-play MMORPG crafted in the retro graphics of days gone by! Don’t let the graphics fool you, though, for Aberoth offers much to players who dare to embark on the path it offers.",
       "game_url": "https://www.mmobomb.com/open/aberoth",
       "genre": " MMORPG",
       "platform": "Web Browser",
       "publisher": "Jarbit",
       "developer": "Jarbit",
       "release_date": "2015-07-17",
-      "profile_url": "https://www.mmobomb.com/aberoth"
+      "profile_url": "https://www.mmobomb.com/aberoth",
+      "favorite": false
     },
     {
       "id": 159,
       "title": "Codename CURE",
       "thumbnail": "https://www.mmobomb.com/g/159/thumbnail.jpg",
-      "short_description": "The undead prowl the maps in search of flesh in Codename CURE, a free to play MMOFPS with objective based missions set against the backdrop of a zombie apocalypse. Taking a leaf from Team Fortress 2\u2019s book, Codename CURE gives players access to five different classes to play as, each with their own strengths and weakness against the zombie hordes.",
+      "short_description": "The undead prowl the maps in search of flesh in Codename CURE, a free to play MMOFPS with objective based missions set against the backdrop of a zombie apocalypse. Taking a leaf from Team Fortress 2’s book, Codename CURE gives players access to five different classes to play as, each with their own strengths and weakness against the zombie hordes.",
       "game_url": "https://www.mmobomb.com/open/codename-cure",
       "genre": "Shooter",
       "platform": "PC (Windows)",
       "publisher": "Hoobalugalar_X",
       "developer": "Hoobalugalar_X",
       "release_date": "2015-07-18",
-      "profile_url": "https://www.mmobomb.com/codename-cure"
+      "profile_url": "https://www.mmobomb.com/codename-cure",
+      "favorite": false
     },
     {
       "id": 161,
@@ -2923,7 +3147,8 @@
       "publisher": "My.com",
       "developer": "Allods Team & Obsidian Entertainment Collaboration",
       "release_date": "2015-07-16",
-      "profile_url": "https://www.mmobomb.com/skyforge"
+      "profile_url": "https://www.mmobomb.com/skyforge",
+      "favorite": false
     },
     {
       "id": 163,
@@ -2936,7 +3161,8 @@
       "publisher": "Blue Manchu",
       "developer": "Blue Manchu",
       "release_date": "2015-07-14",
-      "profile_url": "https://www.mmobomb.com/card-hunter"
+      "profile_url": "https://www.mmobomb.com/card-hunter",
+      "favorite": false
     },
     {
       "id": 104,
@@ -2949,33 +3175,36 @@
       "publisher": "Bethesda Game Studios",
       "developer": "Bethesda Game Studios",
       "release_date": "2015-06-14",
-      "profile_url": "https://www.mmobomb.com/fallout-shelter"
+      "profile_url": "https://www.mmobomb.com/fallout-shelter",
+      "favorite": false
     },
     {
       "id": 388,
-      "title": "Lord\u2019s Road",
+      "title": "Lord’s Road",
       "thumbnail": "https://www.mmobomb.com/g/388/thumbnail.jpg",
-      "short_description": "Lord\u2019s Road is a free-to-play 2D browser-based fantasy MMORPG that features two playable classes. While some players may call its simple two-class system (Warrior and Mage) limiting, many players enjoy the fresh challenge that Lord\u2019s Road has placed before them.",
+      "short_description": "Lord’s Road is a free-to-play 2D browser-based fantasy MMORPG that features two playable classes. While some players may call its simple two-class system (Warrior and Mage) limiting, many players enjoy the fresh challenge that Lord’s Road has placed before them.",
       "game_url": "https://www.mmobomb.com/open/lords-road",
       "genre": "MMORPG",
       "platform": "Web Browser",
       "publisher": "AMZGame",
       "developer": "AMZGame",
       "release_date": "2015-06-03",
-      "profile_url": "https://www.mmobomb.com/lords-road"
+      "profile_url": "https://www.mmobomb.com/lords-road",
+      "favorite": false
     },
     {
       "id": 167,
       "title": "Salem",
       "thumbnail": "https://www.mmobomb.com/g/167/thumbnail.jpg",
-      "short_description": "Salem is a free-to-play crafting MMORPG developed by Seatribe and Mortal Moments, Inc. Players will experience an enormous open-world colonial setting where creation is the goal and all the necessary materials are for the taking \u2013 and permanent death is a real possibility.",
+      "short_description": "Salem is a free-to-play crafting MMORPG developed by Seatribe and Mortal Moments, Inc. Players will experience an enormous open-world colonial setting where creation is the goal and all the necessary materials are for the taking – and permanent death is a real possibility.",
       "game_url": "https://www.mmobomb.com/open/salem",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
       "publisher": "Mortal Moments",
       "developer": "John Carver",
       "release_date": "2015-06-19",
-      "profile_url": "https://www.mmobomb.com/salem"
+      "profile_url": "https://www.mmobomb.com/salem",
+      "favorite": false
     },
     {
       "id": 168,
@@ -2988,20 +3217,22 @@
       "publisher": " Blizzard Entertainment",
       "developer": " Blizzard Entertainment",
       "release_date": "2015-06-02",
-      "profile_url": "https://www.mmobomb.com/heroes-of-the-storm"
+      "profile_url": "https://www.mmobomb.com/heroes-of-the-storm",
+      "favorite": false
     },
     {
       "id": 169,
       "title": "Dirty Bomb",
       "thumbnail": "https://www.mmobomb.com/g/169/thumbnail.jpg",
-      "short_description": "Dirty Bomb, formerly developed under the title Extraction, is a free-to-play MMOFPS developed by Splash Damage and published by Nexon. Set in a post-apocalyptic London, Dirty Bomb boasts a \u201chigher skill ceiling\u201d than other free-to-play shooters in that controllers are not natively supported and no auto aim or aim assist system is used forcing players to develop faster reactions and strategies through gameplay.",
+      "short_description": "Dirty Bomb, formerly developed under the title Extraction, is a free-to-play MMOFPS developed by Splash Damage and published by Nexon. Set in a post-apocalyptic London, Dirty Bomb boasts a “higher skill ceiling” than other free-to-play shooters in that controllers are not natively supported and no auto aim or aim assist system is used forcing players to develop faster reactions and strategies through gameplay.",
       "game_url": "https://www.mmobomb.com/open/dirty-bomb",
       "genre": "Shooter",
       "platform": "PC (Windows)",
       "publisher": "\r\nWarchest Ltd.",
       "developer": "Splash Damage",
       "release_date": "2015-06-01",
-      "profile_url": "https://www.mmobomb.com/dirty-bomb"
+      "profile_url": "https://www.mmobomb.com/dirty-bomb",
+      "favorite": false
     },
     {
       "id": 357,
@@ -3014,7 +3245,8 @@
       "publisher": "Plarium",
       "developer": "Plarium",
       "release_date": "2015-04-15",
-      "profile_url": "https://www.mmobomb.com/vikings-war-of-clans"
+      "profile_url": "https://www.mmobomb.com/vikings-war-of-clans",
+      "favorite": false
     },
     {
       "id": 391,
@@ -3027,20 +3259,22 @@
       "publisher": "GameSamba",
       "developer": "GameSamba",
       "release_date": "2015-04-07",
-      "profile_url": "https://www.mmobomb.com/star-trek-alien-domain"
+      "profile_url": "https://www.mmobomb.com/star-trek-alien-domain",
+      "favorite": false
     },
     {
       "id": 173,
       "title": "Block N Load",
       "thumbnail": "https://www.mmobomb.com/g/173/thumbnail.jpg",
-      "short_description": "Block N Load is a free-to-play multiplayer online FPS game developed by Jagex that looks like a mix of Minecraft and Team Fortress 2. Get ready for the ultimate in multiplayer online gaming\u037e you\u2019ll face off in battles of 5v5, where everything you build, destroy, construct or shoot at has a devastating impact on the entire game.",
+      "short_description": "Block N Load is a free-to-play multiplayer online FPS game developed by Jagex that looks like a mix of Minecraft and Team Fortress 2. Get ready for the ultimate in multiplayer online gaming; you’ll face off in battles of 5v5, where everything you build, destroy, construct or shoot at has a devastating impact on the entire game.",
       "game_url": "https://www.mmobomb.com/open/block-n-load",
       "genre": "Shooter",
       "platform": "PC (Windows)",
       "publisher": "Jagex",
       "developer": "Jagex, Artplant",
       "release_date": "2015-04-30",
-      "profile_url": "https://www.mmobomb.com/block-n-load"
+      "profile_url": "https://www.mmobomb.com/block-n-load",
+      "favorite": false
     },
     {
       "id": 177,
@@ -3053,7 +3287,8 @@
       "publisher": "Neople",
       "developer": "Neople (Subsidiary of Nexon)",
       "release_date": "2015-03-24",
-      "profile_url": "https://www.mmobomb.com/dungeon-fighter-online"
+      "profile_url": "https://www.mmobomb.com/dungeon-fighter-online",
+      "favorite": false
     },
     {
       "id": 56,
@@ -3066,20 +3301,22 @@
       "publisher": "Omniconnection",
       "developer": "Omniconnection",
       "release_date": "2015-02-04",
-      "profile_url": "https://www.mmobomb.com/grimoire-manastorm"
+      "profile_url": "https://www.mmobomb.com/grimoire-manastorm",
+      "favorite": false
     },
     {
       "id": 394,
       "title": "One Piece Online",
       "thumbnail": "https://www.mmobomb.com/g/394/thumbnail.jpg",
-      "short_description": "Set in the ever popular world of Shonen Jump\u2019s One Piece, One Piece Online is a 2D Tower Defense Action MMORPG that will let players take part in the universe of the beloved anime & manga series. Combining elements of tower defense games with traditional RPGs has created a unique game that many players can enjoy.",
+      "short_description": "Set in the ever popular world of Shonen Jump’s One Piece, One Piece Online is a 2D Tower Defense Action MMORPG that will let players take part in the universe of the beloved anime & manga series. Combining elements of tower defense games with traditional RPGs has created a unique game that many players can enjoy.",
       "game_url": "https://www.mmobomb.com/open/one-piece-online",
       "genre": "MMORPG",
       "platform": "Web Browser",
       "publisher": "JoyGames",
       "developer": "JoyGames",
       "release_date": "2015-01-22",
-      "profile_url": "https://www.mmobomb.com/one-piece-online"
+      "profile_url": "https://www.mmobomb.com/one-piece-online",
+      "favorite": false
     },
     {
       "id": 179,
@@ -3092,7 +3329,8 @@
       "publisher": "Atelier 801",
       "developer": "Atelier 801",
       "release_date": "2015-01-30",
-      "profile_url": "https://www.mmobomb.com/transformice"
+      "profile_url": "https://www.mmobomb.com/transformice",
+      "favorite": false
     },
     {
       "id": 180,
@@ -3105,20 +3343,22 @@
       "publisher": "Doctor Entertainment",
       "developer": "Doctor Entertainment",
       "release_date": "2015-01-29",
-      "profile_url": "https://www.mmobomb.com/gear-up"
+      "profile_url": "https://www.mmobomb.com/gear-up",
+      "favorite": false
     },
     {
       "id": 181,
       "title": "8BitMMO",
       "thumbnail": "https://www.mmobomb.com/g/181/thumbnail.jpg",
-      "short_description": "Listen up all of you 8\u00adbit lovers out there! As the name would suggest, 8BitMMO is a free to play retro\u00adstyle 2D massively multiplayer game!",
+      "short_description": "Listen up all of you 8­bit lovers out there! As the name would suggest, 8BitMMO is a free to play retro­style 2D massively multiplayer game!",
       "game_url": "https://www.mmobomb.com/open/8bitmmo",
       "genre": "MMORPG",
       "platform": "PC (Windows), Web Browser",
       "publisher": "Archive Entertainment ",
       "developer": "Archive Entertainment ",
       "release_date": "2015-01-26",
-      "profile_url": "https://www.mmobomb.com/8bitmmo"
+      "profile_url": "https://www.mmobomb.com/8bitmmo",
+      "favorite": false
     },
     {
       "id": 399,
@@ -3131,7 +3371,8 @@
       "publisher": "37Games Entertainment",
       "developer": "37Games Entertainment",
       "release_date": "2014-12-19",
-      "profile_url": "https://www.mmobomb.com/siegelord"
+      "profile_url": "https://www.mmobomb.com/siegelord",
+      "favorite": false
     },
     {
       "id": 182,
@@ -3144,7 +3385,8 @@
       "publisher": "Trendy Entertainment",
       "developer": "Trendy Entertainment",
       "release_date": "2014-12-05",
-      "profile_url": "https://www.mmobomb.com/dungeon-defenders-2"
+      "profile_url": "https://www.mmobomb.com/dungeon-defenders-2",
+      "favorite": false
     },
     {
       "id": 184,
@@ -3157,7 +3399,8 @@
       "publisher": "Shumkov Dmitriy",
       "developer": "Shumkov Dmitriy",
       "release_date": "2014-11-05",
-      "profile_url": "https://www.mmobomb.com/blockade-3d"
+      "profile_url": "https://www.mmobomb.com/blockade-3d",
+      "favorite": false
     },
     {
       "id": 185,
@@ -3170,7 +3413,8 @@
       "publisher": "Hunted Cow Studios",
       "developer": "Hunted Cow Studios",
       "release_date": "2014-11-05",
-      "profile_url": "https://www.mmobomb.com/eldevin"
+      "profile_url": "https://www.mmobomb.com/eldevin",
+      "favorite": false
     },
     {
       "id": 186,
@@ -3183,46 +3427,50 @@
       "publisher": "Double Action Factory ",
       "developer": "Double Action Factory ",
       "release_date": "2014-10-23",
-      "profile_url": "https://www.mmobomb.com/double-action"
+      "profile_url": "https://www.mmobomb.com/double-action",
+      "favorite": false
     },
     {
       "id": 187,
       "title": "Pox Nora",
       "thumbnail": "https://www.mmobomb.com/g/187/thumbnail.jpg",
-      "short_description": "If you\u2019re looking for a turn-\u00adbased strategy game that encompasses the elements of tabletop miniatures, fantasy RPG and collectible card game, look no further than Pox Nora. Developed and published by Desert Owl Games LLC, Pox Nora combines great 2D graphics with endless adventure.",
+      "short_description": "If you’re looking for a turn-­based strategy game that encompasses the elements of tabletop miniatures, fantasy RPG and collectible card game, look no further than Pox Nora. Developed and published by Desert Owl Games LLC, Pox Nora combines great 2D graphics with endless adventure.",
       "game_url": "https://www.mmobomb.com/open/pox-nora",
       "genre": "Card Game",
       "platform": "PC (Windows)",
       "publisher": "Desert Owl Games LLC ",
       "developer": "Desert Owl Games LLC ",
       "release_date": "2014-10-15",
-      "profile_url": "https://www.mmobomb.com/pox-nora"
+      "profile_url": "https://www.mmobomb.com/pox-nora",
+      "favorite": false
     },
     {
       "id": 188,
       "title": "Counter-Strike Nexon: Studio",
       "thumbnail": "https://www.mmobomb.com/g/188/thumbnail.jpg",
-      "short_description": "Counter-Strike Nexon: Studio is the free-to-play massively multiplayer online FPS that asks the simple question: What\u2019s better than Counter-Strike? Answer: Counter-Strike with new game modes, map creation and lots of zombies!",
+      "short_description": "Counter-Strike Nexon: Studio is the free-to-play massively multiplayer online FPS that asks the simple question: What’s better than Counter-Strike? Answer: Counter-Strike with new game modes, map creation and lots of zombies!",
       "game_url": "https://www.mmobomb.com/open/counter-strike-nexon",
       "genre": "Shooter",
       "platform": "PC (Windows)",
       "publisher": "Nexon Europe GmbH",
       "developer": "Nexon",
       "release_date": "2014-10-07",
-      "profile_url": "https://www.mmobomb.com/counter-strike-nexon"
+      "profile_url": "https://www.mmobomb.com/counter-strike-nexon",
+      "favorite": false
     },
     {
       "id": 189,
       "title": "Uncharted Waters Online",
       "thumbnail": "https://www.mmobomb.com/g/189/thumbnail.jpg",
-      "short_description": "Uncharted Waters Online is a 3D historical MMORPG (massively multi-player online role-playing game) developed by Tecmo Koei Games. Set between the fifteenth and seventeenth centuries, Uncharted Waters Online players will have the chance to conquer hundreds of neutral cities to ensure that their nation becomes the world\u2019s leading power.",
+      "short_description": "Uncharted Waters Online is a 3D historical MMORPG (massively multi-player online role-playing game) developed by Tecmo Koei Games. Set between the fifteenth and seventeenth centuries, Uncharted Waters Online players will have the chance to conquer hundreds of neutral cities to ensure that their nation becomes the world’s leading power.",
       "game_url": "https://www.mmobomb.com/open/uncharted-waters-online",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
       "publisher": "Papaya Play ",
       "developer": "KOEI TECMO GAMES CO., LTD. ",
       "release_date": "2014-10-03",
-      "profile_url": "https://www.mmobomb.com/uncharted-waters-online"
+      "profile_url": "https://www.mmobomb.com/uncharted-waters-online",
+      "favorite": false
     },
     {
       "id": 10,
@@ -3235,7 +3483,8 @@
       "publisher": "Kakao Games",
       "developer": "XL Games",
       "release_date": "2014-09-04",
-      "profile_url": "https://www.mmobomb.com/archeage"
+      "profile_url": "https://www.mmobomb.com/archeage",
+      "favorite": false
     },
     {
       "id": 404,
@@ -3248,7 +3497,8 @@
       "publisher": "InnoGames",
       "developer": "InnoGames",
       "release_date": "2014-09-02",
-      "profile_url": "https://www.mmobomb.com/tribal-wars-2"
+      "profile_url": "https://www.mmobomb.com/tribal-wars-2",
+      "favorite": false
     },
     {
       "id": 192,
@@ -3261,7 +3511,8 @@
       "publisher": "Ankama Games",
       "developer": "Ankama Studio",
       "release_date": "2014-09-19",
-      "profile_url": "https://www.mmobomb.com/wakfu"
+      "profile_url": "https://www.mmobomb.com/wakfu",
+      "favorite": false
     },
     {
       "id": 193,
@@ -3274,7 +3525,8 @@
       "publisher": "Lightmare Studios",
       "developer": "Lightmare Studios",
       "release_date": "2014-09-05",
-      "profile_url": "https://www.mmobomb.com/infinity-wars"
+      "profile_url": "https://www.mmobomb.com/infinity-wars",
+      "favorite": false
     },
     {
       "id": 195,
@@ -3287,7 +3539,8 @@
       "publisher": "Suba Games ",
       "developer": "GamePrix ",
       "release_date": "2014-08-15",
-      "profile_url": "https://www.mmobomb.com/divine-souls"
+      "profile_url": "https://www.mmobomb.com/divine-souls",
+      "favorite": false
     },
     {
       "id": 196,
@@ -3300,7 +3553,8 @@
       "publisher": "Cosmic Cow LLC",
       "developer": "Cosmic Cow LLC",
       "release_date": "2014-08-13",
-      "profile_url": "https://www.mmobomb.com/cubic-castles"
+      "profile_url": "https://www.mmobomb.com/cubic-castles",
+      "favorite": false
     },
     {
       "id": 198,
@@ -3313,7 +3567,8 @@
       "publisher": "Playful Corporation",
       "developer": "Playful Corporation",
       "release_date": "2014-08-12",
-      "profile_url": "https://www.mmobomb.com/creativerse"
+      "profile_url": "https://www.mmobomb.com/creativerse",
+      "favorite": false
     },
     {
       "id": 199,
@@ -3326,7 +3581,8 @@
       "publisher": "1C Online Games ",
       "developer": "Katauri ",
       "release_date": "2014-08-06",
-      "profile_url": "https://www.mmobomb.com/royal-quest"
+      "profile_url": "https://www.mmobomb.com/royal-quest",
+      "favorite": false
     },
     {
       "id": 200,
@@ -3339,7 +3595,8 @@
       "publisher": "Masthead Studios Ltd, Thegamewallstudios, Gamigo AG",
       "developer": "Masthead Studios Ltd",
       "release_date": "2014-08-05",
-      "profile_url": "https://www.mmobomb.com/guns-and-robots"
+      "profile_url": "https://www.mmobomb.com/guns-and-robots",
+      "favorite": false
     },
     {
       "id": 348,
@@ -3352,7 +3609,8 @@
       "publisher": "GoGames",
       "developer": "GoGames",
       "release_date": "2014-07-14",
-      "profile_url": "https://www.mmobomb.com/bleach-online"
+      "profile_url": "https://www.mmobomb.com/bleach-online",
+      "favorite": false
     },
     {
       "id": 203,
@@ -3365,7 +3623,8 @@
       "publisher": "Freejam",
       "developer": "Freejam",
       "release_date": "2014-07-08",
-      "profile_url": "https://www.mmobomb.com/robocraft"
+      "profile_url": "https://www.mmobomb.com/robocraft",
+      "favorite": false
     },
     {
       "id": 204,
@@ -3378,7 +3637,8 @@
       "publisher": "Smartly Dressed Games",
       "developer": "Smartly Dressed Games",
       "release_date": "2014-07-08",
-      "profile_url": "https://www.mmobomb.com/unturned"
+      "profile_url": "https://www.mmobomb.com/unturned",
+      "favorite": false
     },
     {
       "id": 207,
@@ -3391,20 +3651,22 @@
       "publisher": "Crytek",
       "developer": "Crytek",
       "release_date": "2014-07-01",
-      "profile_url": "https://www.mmobomb.com/warface"
+      "profile_url": "https://www.mmobomb.com/warface",
+      "favorite": false
     },
     {
       "id": 209,
       "title": "Freestyle2: Street Basketball",
       "thumbnail": "https://www.mmobomb.com/g/209/thumbnail.jpg",
-      "short_description": "Freestyle2: Street Basketball is a free to play MMO street basketball game. Take to the streets for some 3v3 basketball in Joycity\u2019s Freestyle2: Street Basketball.",
+      "short_description": "Freestyle2: Street Basketball is a free to play MMO street basketball game. Take to the streets for some 3v3 basketball in Joycity’s Freestyle2: Street Basketball.",
       "game_url": "https://www.mmobomb.com/open/freestyle2-street-basketball",
       "genre": "Sports",
       "platform": "PC (Windows)",
       "publisher": "Joycity",
       "developer": "Joycity",
       "release_date": "2014-06-20",
-      "profile_url": "https://www.mmobomb.com/freestyle2-street-basketball"
+      "profile_url": "https://www.mmobomb.com/freestyle2-street-basketball",
+      "favorite": false
     },
     {
       "id": 210,
@@ -3417,7 +3679,8 @@
       "publisher": "Fistful of Frags Team",
       "developer": "Fistful of Frags Team",
       "release_date": "2014-05-10",
-      "profile_url": "https://www.mmobomb.com/fistful-of-frags"
+      "profile_url": "https://www.mmobomb.com/fistful-of-frags",
+      "favorite": false
     },
     {
       "id": 211,
@@ -3430,7 +3693,8 @@
       "publisher": "MAIET Entertainme",
       "developer": "MAIET Entertainme",
       "release_date": "2014-05-01",
-      "profile_url": "https://www.mmobomb.com/gunz-2"
+      "profile_url": "https://www.mmobomb.com/gunz-2",
+      "favorite": true
     },
     {
       "id": 213,
@@ -3443,7 +3707,8 @@
       "publisher": "CodeBrush Games",
       "developer": "CodeBrush Games",
       "release_date": "2014-04-25",
-      "profile_url": "https://www.mmobomb.com/archeblade"
+      "profile_url": "https://www.mmobomb.com/archeblade",
+      "favorite": false
     },
     {
       "id": 214,
@@ -3456,7 +3721,8 @@
       "publisher": "Mad Otter Games",
       "developer": "Mad Otter Games",
       "release_date": "2014-04-17",
-      "profile_url": "https://www.mmobomb.com/villagers-and-heroes"
+      "profile_url": "https://www.mmobomb.com/villagers-and-heroes",
+      "favorite": false
     },
     {
       "id": 215,
@@ -3469,7 +3735,8 @@
       "publisher": "Hex Entertainment, Gameforge",
       "developer": "Cryptozoic Entertainment",
       "release_date": "2014-04-11",
-      "profile_url": "https://www.mmobomb.com/hex"
+      "profile_url": "https://www.mmobomb.com/hex",
+      "favorite": false
     },
     {
       "id": 409,
@@ -3482,7 +3749,8 @@
       "publisher": "Plarium",
       "developer": "Plarium",
       "release_date": "2014-03-13",
-      "profile_url": "https://www.mmobomb.com/sparta-war-empires"
+      "profile_url": "https://www.mmobomb.com/sparta-war-empires",
+      "favorite": false
     },
     {
       "id": 217,
@@ -3495,7 +3763,8 @@
       "publisher": "Hi-Rez Studios",
       "developer": "Hi-Rez Studios",
       "release_date": "2014-03-25",
-      "profile_url": "https://www.mmobomb.com/smite"
+      "profile_url": "https://www.mmobomb.com/smite",
+      "favorite": false
     },
     {
       "id": 239,
@@ -3508,20 +3777,22 @@
       "publisher": "Cyanide",
       "developer": "Cyanide",
       "release_date": "2014-02-04",
-      "profile_url": "https://www.mmobomb.com/dogs-war-online"
+      "profile_url": "https://www.mmobomb.com/dogs-war-online",
+      "favorite": false
     },
     {
       "id": 220,
       "title": "Hearthstone: Heroes of Warcraft",
       "thumbnail": "https://www.mmobomb.com/g/220/thumbnail.jpg",
-      "short_description": "Hearthstone is Blizzard\u2019s free-to-play collectible card game that draws its inspiration from the rich history and lore of World of Warcraft. Specifically optimized for online play, with lots of special effects and random elements, Hearthstone is a game you can play for 10 minutes or three hours.",
+      "short_description": "Hearthstone is Blizzard’s free-to-play collectible card game that draws its inspiration from the rich history and lore of World of Warcraft. Specifically optimized for online play, with lots of special effects and random elements, Hearthstone is a game you can play for 10 minutes or three hours.",
       "game_url": "https://www.mmobomb.com/open/hearthstone-heroes-warcraft",
       "genre": "Card Game",
       "platform": "PC (Windows)",
       "publisher": "Blizzard Entertainment",
       "developer": "Blizzard Entertainment",
       "release_date": "2014-01-21",
-      "profile_url": "https://www.mmobomb.com/hearthstone-heroes-warcraft"
+      "profile_url": "https://www.mmobomb.com/hearthstone-heroes-warcraft",
+      "favorite": false
     },
     {
       "id": 221,
@@ -3534,7 +3805,8 @@
       "publisher": "Suba Games",
       "developer": "Playcoco (Subsidiary of Gamania)",
       "release_date": "2014-01-10",
-      "profile_url": "https://www.mmobomb.com/lucent-heart"
+      "profile_url": "https://www.mmobomb.com/lucent-heart",
+      "favorite": false
     },
     {
       "id": 376,
@@ -3547,7 +3819,8 @@
       "publisher": "GTArcade",
       "developer": "Youzu Interactive",
       "release_date": "2013-12-10",
-      "profile_url": "https://www.mmobomb.com/league-of-angels"
+      "profile_url": "https://www.mmobomb.com/league-of-angels",
+      "favorite": false
     },
     {
       "id": 206,
@@ -3560,7 +3833,8 @@
       "publisher": "X-Legend",
       "developer": "X-Legend",
       "release_date": "2013-12-23",
-      "profile_url": "https://www.mmobomb.com/aura-kingdom"
+      "profile_url": "https://www.mmobomb.com/aura-kingdom",
+      "favorite": false
     },
     {
       "id": 424,
@@ -3573,7 +3847,8 @@
       "publisher": "Aeria, R2Games",
       "developer": "R2Games",
       "release_date": "2013-11-20",
-      "profile_url": "https://www.mmobomb.com/crystal-saga"
+      "profile_url": "https://www.mmobomb.com/crystal-saga",
+      "favorite": false
     },
     {
       "id": 226,
@@ -3586,7 +3861,8 @@
       "publisher": "Grinding Gear Games",
       "developer": "Grinding Gear Games",
       "release_date": "2013-10-23",
-      "profile_url": "https://www.mmobomb.com/path-of-exile"
+      "profile_url": "https://www.mmobomb.com/path-of-exile",
+      "favorite": true
     },
     {
       "id": 411,
@@ -3599,7 +3875,8 @@
       "publisher": "Plarium Games",
       "developer": "Plarium Games",
       "release_date": "2013-08-01",
-      "profile_url": "https://www.mmobomb.com/soldiers-inc"
+      "profile_url": "https://www.mmobomb.com/soldiers-inc",
+      "favorite": false
     },
     {
       "id": 412,
@@ -3612,7 +3889,8 @@
       "publisher": "Plarium Games",
       "developer": "Plarium Games",
       "release_date": "2013-08-01",
-      "profile_url": "https://www.mmobomb.com/nords-heroes-north"
+      "profile_url": "https://www.mmobomb.com/nords-heroes-north",
+      "favorite": false
     },
     {
       "id": 229,
@@ -3625,7 +3903,8 @@
       "publisher": "Valve",
       "developer": "Valve",
       "release_date": "2013-07-09",
-      "profile_url": "https://www.mmobomb.com/dota-2"
+      "profile_url": "https://www.mmobomb.com/dota-2",
+      "favorite": false
     },
     {
       "id": 230,
@@ -3638,7 +3917,8 @@
       "publisher": "Gravity Interactive",
       "developer": "Gravity, Inc.",
       "release_date": "2013-05-01",
-      "profile_url": "https://www.mmobomb.com/ragnarok-online-2"
+      "profile_url": "https://www.mmobomb.com/ragnarok-online-2",
+      "favorite": false
     },
     {
       "id": 231,
@@ -3651,7 +3931,8 @@
       "publisher": "Panzar",
       "developer": "Troxit Service",
       "release_date": "2013-04-12",
-      "profile_url": "https://www.mmobomb.com/panzar"
+      "profile_url": "https://www.mmobomb.com/panzar",
+      "favorite": false
     },
     {
       "id": 233,
@@ -3664,7 +3945,8 @@
       "publisher": "Reverie World Studios, INC",
       "developer": "Reverie World Studios, INC",
       "release_date": "2013-04-01",
-      "profile_url": "https://www.mmobomb.com/kingdom-wars"
+      "profile_url": "https://www.mmobomb.com/kingdom-wars",
+      "favorite": false
     },
     {
       "id": 234,
@@ -3677,7 +3959,8 @@
       "publisher": "NGD Studios",
       "developer": "NGD Studios",
       "release_date": "2013-02-27",
-      "profile_url": "https://www.mmobomb.com/champions-of-regnum"
+      "profile_url": "https://www.mmobomb.com/champions-of-regnum",
+      "favorite": false
     },
     {
       "id": 235,
@@ -3690,7 +3973,8 @@
       "publisher": "Gaijin Entertainment",
       "developer": "Star Gem Inc.",
       "release_date": "2013-02-28",
-      "profile_url": "https://www.mmobomb.com/star-conflict"
+      "profile_url": "https://www.mmobomb.com/star-conflict",
+      "favorite": false
     },
     {
       "id": 414,
@@ -3703,7 +3987,8 @@
       "publisher": "Bright Future",
       "developer": "Travian Games",
       "release_date": "2013-01-13",
-      "profile_url": "https://www.mmobomb.com/rail-nation"
+      "profile_url": "https://www.mmobomb.com/rail-nation",
+      "favorite": false
     },
     {
       "id": 240,
@@ -3716,7 +4001,8 @@
       "publisher": "momoStorm Entertainment",
       "developer": "momoStorm",
       "release_date": "2013-01-29",
-      "profile_url": "https://www.mmobomb.com/epic-card-battle"
+      "profile_url": "https://www.mmobomb.com/epic-card-battle",
+      "favorite": false
     },
     {
       "id": 232,
@@ -3729,7 +4015,8 @@
       "publisher": "Snail Games",
       "developer": "Snail Games",
       "release_date": "2012-12-20",
-      "profile_url": "https://www.mmobomb.com/age-of-wushu"
+      "profile_url": "https://www.mmobomb.com/age-of-wushu",
+      "favorite": false
     },
     {
       "id": 241,
@@ -3742,20 +4029,22 @@
       "publisher": "Daybreak Games",
       "developer": "Daybreak Games",
       "release_date": "2012-12-13",
-      "profile_url": "https://www.mmobomb.com/everquest"
+      "profile_url": "https://www.mmobomb.com/everquest",
+      "favorite": false
     },
     {
       "id": 242,
       "title": "Mabinogi",
       "thumbnail": "https://www.mmobomb.com/g/242/thumbnail.jpg",
-      "short_description": "Mabinogi is a free online game developed by devCAT Studio during three years. It\u2019s also an innovative free MMORPG that offers an amazing cartoon look, thanks to a technique called Cartoon Rendering.",
+      "short_description": "Mabinogi is a free online game developed by devCAT Studio during three years. It’s also an innovative free MMORPG that offers an amazing cartoon look, thanks to a technique called Cartoon Rendering.",
       "game_url": "https://www.mmobomb.com/open/mabinogi",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
       "publisher": "Nexon America Inc. ",
       "developer": "NEXON Korea Corp.",
       "release_date": "2012-12-06",
-      "profile_url": "https://www.mmobomb.com/mabinogi"
+      "profile_url": "https://www.mmobomb.com/mabinogi",
+      "favorite": false
     },
     {
       "id": 415,
@@ -3768,7 +4057,8 @@
       "publisher": "Plarium",
       "developer": "Plarium",
       "release_date": "2012-11-01",
-      "profile_url": "https://www.mmobomb.com/stormfall-age-war"
+      "profile_url": "https://www.mmobomb.com/stormfall-age-war",
+      "favorite": false
     },
     {
       "id": 244,
@@ -3781,20 +4071,22 @@
       "publisher": "Carbon Games",
       "developer": "Carbon Games",
       "release_date": "2012-11-08",
-      "profile_url": "https://www.mmobomb.com/airmech"
+      "profile_url": "https://www.mmobomb.com/airmech",
+      "favorite": false
     },
     {
       "id": 349,
       "title": "Big Farm",
       "thumbnail": "https://www.mmobomb.com/g/349/thumbnail.jpg",
-      "short_description": "Goodgame's Big Farm has you taking over for Uncle George after he's left his farm \u201cin pretty bad shape.\u201d You'll need to plant crops, raise livestock, and get a little help from your neighbors to get the farm back in shape! You'll start with some basic crops, but as you progress, you'll be able to unlock more labor-intensive and financially rewarding crops.",
+      "short_description": "Goodgame's Big Farm has you taking over for Uncle George after he's left his farm “in pretty bad shape.” You'll need to plant crops, raise livestock, and get a little help from your neighbors to get the farm back in shape! You'll start with some basic crops, but as you progress, you'll be able to unlock more labor-intensive and financially rewarding crops.",
       "game_url": "https://www.mmobomb.com/open/big-farm",
       "genre": "Strategy",
       "platform": "Web Browser",
       "publisher": "GoodGame Studios",
       "developer": "GoodGame Studios",
       "release_date": "2012-10-29",
-      "profile_url": "https://www.mmobomb.com/big-farm"
+      "profile_url": "https://www.mmobomb.com/big-farm",
+      "favorite": false
     },
     {
       "id": 416,
@@ -3807,7 +4099,8 @@
       "publisher": "R2 Games",
       "developer": "7Th Road",
       "release_date": "2012-10-25",
-      "profile_url": "https://www.mmobomb.com/wartune"
+      "profile_url": "https://www.mmobomb.com/wartune",
+      "favorite": false
     },
     {
       "id": 246,
@@ -3820,7 +4113,8 @@
       "publisher": "KingsIsle Entertainment",
       "developer": "KingsIsle Entertainment",
       "release_date": "2012-10-15",
-      "profile_url": "https://www.mmobomb.com/pirate-101"
+      "profile_url": "https://www.mmobomb.com/pirate-101",
+      "favorite": false
     },
     {
       "id": 417,
@@ -3833,7 +4127,8 @@
       "publisher": "Splitscreen S.",
       "developer": "Splits. S",
       "release_date": "2012-09-12",
-      "profile_url": "https://www.mmobomb.com/dino-storm"
+      "profile_url": "https://www.mmobomb.com/dino-storm",
+      "favorite": false
     },
     {
       "id": 418,
@@ -3846,7 +4141,8 @@
       "publisher": "Ubisoft",
       "developer": "Blue Byte",
       "release_date": "2012-09-11",
-      "profile_url": "https://www.mmobomb.com/the-settlers-online"
+      "profile_url": "https://www.mmobomb.com/the-settlers-online",
+      "favorite": false
     },
     {
       "id": 248,
@@ -3859,7 +4155,8 @@
       "publisher": "Webzen",
       "developer": "NHN Games (Acquired by Webzen)",
       "release_date": "2012-09-13",
-      "profile_url": "https://www.mmobomb.com/c9"
+      "profile_url": "https://www.mmobomb.com/c9",
+      "favorite": false
     },
     {
       "id": 24,
@@ -3872,7 +4169,8 @@
       "publisher": "Valve",
       "developer": "Valve, Hidden Path Entertainment",
       "release_date": "2012-08-21",
-      "profile_url": "https://www.mmobomb.com/counter-strike-global-offensive"
+      "profile_url": "https://www.mmobomb.com/counter-strike-global-offensive",
+      "favorite": false
     },
     {
       "id": 453,
@@ -3885,7 +4183,8 @@
       "publisher": "Warner Bros. Interactive Entertainment",
       "developer": "Monolith Productions, Inc.",
       "release_date": "2012-08-31",
-      "profile_url": "https://www.mmobomb.com/gotham-city-impostors"
+      "profile_url": "https://www.mmobomb.com/gotham-city-impostors",
+      "favorite": false
     },
     {
       "id": 249,
@@ -3898,7 +4197,8 @@
       "publisher": "Marxnet",
       "developer": "Marxnet",
       "release_date": "2012-07-18",
-      "profile_url": "https://www.mmobomb.com/rpg-mo"
+      "profile_url": "https://www.mmobomb.com/rpg-mo",
+      "favorite": false
     },
     {
       "id": 256,
@@ -3911,7 +4211,8 @@
       "publisher": "Kabam",
       "developer": "Wild Shadow Studios",
       "release_date": "2012-02-21",
-      "profile_url": "https://www.mmobomb.com/realm-mad-god"
+      "profile_url": "https://www.mmobomb.com/realm-mad-god",
+      "favorite": false
     },
     {
       "id": 422,
@@ -3924,7 +4225,8 @@
       "publisher": "Plarium Games",
       "developer": "Plarium Games",
       "release_date": "2012-02-12",
-      "profile_url": "https://www.mmobomb.com/pirates-tides-fortune"
+      "profile_url": "https://www.mmobomb.com/pirates-tides-fortune",
+      "favorite": false
     },
     {
       "id": 255,
@@ -3937,7 +4239,8 @@
       "publisher": "FireFly Studios",
       "developer": "FireFly Studios",
       "release_date": "2012-02-28",
-      "profile_url": "https://www.mmobomb.com/stronghold-kingdoms"
+      "profile_url": "https://www.mmobomb.com/stronghold-kingdoms",
+      "favorite": false
     },
     {
       "id": 292,
@@ -3950,20 +4253,22 @@
       "publisher": "Snail Games",
       "developer": "Snail Games",
       "release_date": "2011-11-11",
-      "profile_url": "https://www.mmobomb.com/5street"
+      "profile_url": "https://www.mmobomb.com/5street",
+      "favorite": false
     },
     {
       "id": 261,
       "title": "No More Room in Hell",
       "thumbnail": "https://www.mmobomb.com/g/261/thumbnail.jpg",
-      "short_description": "No More Room in Hell is a free to play cooperative FPS survival horror mod for the Source Engine, and focuses on survival in an \u201cof the Dead\u201d type universe loosely based on Romero\u2019s famous work. The multiplayer co-op game play has been likened more to a survival horror game than a typical first person shooter, but the game relies on typical first person mechanics.",
+      "short_description": "No More Room in Hell is a free to play cooperative FPS survival horror mod for the Source Engine, and focuses on survival in an “of the Dead” type universe loosely based on Romero’s famous work. The multiplayer co-op game play has been likened more to a survival horror game than a typical first person shooter, but the game relies on typical first person mechanics.",
       "game_url": "https://www.mmobomb.com/open/no-more-room-in-hell",
       "genre": "Shooter",
       "platform": "PC (Windows)",
       "publisher": "Lever Games",
       "developer": "No More Room in Hell Team",
       "release_date": "2011-10-31",
-      "profile_url": "https://www.mmobomb.com/no-more-room-in-hell"
+      "profile_url": "https://www.mmobomb.com/no-more-room-in-hell",
+      "favorite": false
     },
     {
       "id": 262,
@@ -3976,7 +4281,8 @@
       "publisher": "MOVE ON USA CO.",
       "developer": "Move Games Co., Ltd.",
       "release_date": "2011-10-20",
-      "profile_url": "https://www.mmobomb.com/digimon-masters"
+      "profile_url": "https://www.mmobomb.com/digimon-masters",
+      "favorite": false
     },
     {
       "id": 264,
@@ -3989,7 +4295,8 @@
       "publisher": " Eyedentity Games Inc.",
       "developer": " Eyedentity Games Inc.",
       "release_date": "2011-09-28",
-      "profile_url": "https://www.mmobomb.com/dragon-nest"
+      "profile_url": "https://www.mmobomb.com/dragon-nest",
+      "favorite": false
     },
     {
       "id": 267,
@@ -4002,7 +4309,8 @@
       "publisher": "Suba Games",
       "developer": "Kingsoft",
       "release_date": "2011-07-08",
-      "profile_url": "https://www.mmobomb.com/mat"
+      "profile_url": "https://www.mmobomb.com/mat",
+      "favorite": false
     },
     {
       "id": 269,
@@ -4015,7 +4323,8 @@
       "publisher": "SEGA",
       "developer": "Three Rings",
       "release_date": "2011-06-15",
-      "profile_url": "https://www.mmobomb.com/spiral-knights"
+      "profile_url": "https://www.mmobomb.com/spiral-knights",
+      "favorite": false
     },
     {
       "id": 423,
@@ -4028,7 +4337,8 @@
       "publisher": "Splitscreen Studios",
       "developer": "Splitscreen Studios",
       "release_date": "2011-06-15",
-      "profile_url": "https://www.mmobomb.com/steel-legions"
+      "profile_url": "https://www.mmobomb.com/steel-legions",
+      "favorite": false
     },
     {
       "id": 271,
@@ -4041,7 +4351,8 @@
       "publisher": "GamenGame",
       "developer": "Maxonsoft",
       "release_date": "2011-05-19",
-      "profile_url": "https://www.mmobomb.com/asda-global"
+      "profile_url": "https://www.mmobomb.com/asda-global",
+      "favorite": false
     },
     {
       "id": 60,
@@ -4054,20 +4365,22 @@
       "publisher": "Bethesda Softworks",
       "developer": "Splash Damage",
       "release_date": "2011-05-09",
-      "profile_url": "https://www.mmobomb.com/brink"
+      "profile_url": "https://www.mmobomb.com/brink",
+      "favorite": false
     },
     {
       "id": 272,
       "title": "Allods Online",
       "thumbnail": "https://www.mmobomb.com/g/272/thumbnail.jpg",
-      "short_description": "Allods Online is an impressive free to play fantasy MMORPG with some Sci-Fi elements that fans of the genre\u2019s most successful titles can enjoy. It features extensive questing, intense player-versus-player combat, grand exploration, in-depth character development and plenty of social interaction.",
+      "short_description": "Allods Online is an impressive free to play fantasy MMORPG with some Sci-Fi elements that fans of the genre’s most successful titles can enjoy. It features extensive questing, intense player-versus-player combat, grand exploration, in-depth character development and plenty of social interaction.",
       "game_url": "https://www.mmobomb.com/open/allods-online",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
       "publisher": "My.com",
       "developer": "Allods Team",
       "release_date": "2011-04-26",
-      "profile_url": "https://www.mmobomb.com/allods-online"
+      "profile_url": "https://www.mmobomb.com/allods-online",
+      "favorite": false
     },
     {
       "id": 205,
@@ -4080,7 +4393,8 @@
       "publisher": "KOG Games",
       "developer": "KOG",
       "release_date": "2011-03-23",
-      "profile_url": "https://www.mmobomb.com/elsword"
+      "profile_url": "https://www.mmobomb.com/elsword",
+      "favorite": true
     },
     {
       "id": 260,
@@ -4093,7 +4407,8 @@
       "publisher": "Daybreak Games",
       "developer": "Daybreak Games",
       "release_date": "2011-01-11",
-      "profile_url": "https://www.mmobomb.com/dcuo"
+      "profile_url": "https://www.mmobomb.com/dcuo",
+      "favorite": false
     },
     {
       "id": 273,
@@ -4106,7 +4421,8 @@
       "publisher": "Stunlock Studios",
       "developer": "Stunlock Studios",
       "release_date": "2011-01-13",
-      "profile_url": "https://www.mmobomb.com/bloodline-champions"
+      "profile_url": "https://www.mmobomb.com/bloodline-champions",
+      "favorite": false
     },
     {
       "id": 274,
@@ -4119,7 +4435,8 @@
       "publisher": "CyberStep",
       "developer": "CyberStep",
       "release_date": "2010-12-16",
-      "profile_url": "https://www.mmobomb.com/getamped-2"
+      "profile_url": "https://www.mmobomb.com/getamped-2",
+      "favorite": false
     },
     {
       "id": 275,
@@ -4132,7 +4449,8 @@
       "publisher": "Gravity Interactive",
       "developer": "Gravity Interactive",
       "release_date": "2010-10-28",
-      "profile_url": "https://www.mmobomb.com/dragon-saga"
+      "profile_url": "https://www.mmobomb.com/dragon-saga",
+      "favorite": false
     },
     {
       "id": 276,
@@ -4145,7 +4463,8 @@
       "publisher": "Nexon",
       "developer": "devCAT",
       "release_date": "2010-10-13",
-      "profile_url": "https://www.mmobomb.com/vindictus"
+      "profile_url": "https://www.mmobomb.com/vindictus",
+      "favorite": true
     },
     {
       "id": 277,
@@ -4158,7 +4477,8 @@
       "publisher": "HanbitSoft",
       "developer": "JoyImpact",
       "release_date": "2010-08-27",
-      "profile_url": "https://www.mmobomb.com/aika-online"
+      "profile_url": "https://www.mmobomb.com/aika-online",
+      "favorite": false
     },
     {
       "id": 258,
@@ -4171,7 +4491,8 @@
       "publisher": "Reloaded Games",
       "developer": "Reloaded Productions",
       "release_date": "2010-06-29",
-      "profile_url": "https://www.mmobomb.com/apb"
+      "profile_url": "https://www.mmobomb.com/apb",
+      "favorite": false
     },
     {
       "id": 278,
@@ -4184,7 +4505,8 @@
       "publisher": "Star Vault AB ",
       "developer": "Star Vault AB ",
       "release_date": "2010-06-09",
-      "profile_url": "https://www.mmobomb.com/mortal-online"
+      "profile_url": "https://www.mmobomb.com/mortal-online",
+      "favorite": false
     },
     {
       "id": 281,
@@ -4197,7 +4519,8 @@
       "publisher": "X-Legend Entertainment",
       "developer": "X-Legend Entertainment",
       "release_date": "2009-12-01",
-      "profile_url": "https://www.mmobomb.com/grand-fantasia"
+      "profile_url": "https://www.mmobomb.com/grand-fantasia",
+      "favorite": false
     },
     {
       "id": 425,
@@ -4210,7 +4533,8 @@
       "publisher": "InnoGames",
       "developer": "InnoGames",
       "release_date": "2009-12-08",
-      "profile_url": "https://www.mmobomb.com/grepolis"
+      "profile_url": "https://www.mmobomb.com/grepolis",
+      "favorite": false
     },
     {
       "id": 286,
@@ -4223,7 +4547,8 @@
       "publisher": "Riot Games",
       "developer": "Riot Games",
       "release_date": "2009-10-27",
-      "profile_url": "https://www.mmobomb.com/league-of-legends"
+      "profile_url": "https://www.mmobomb.com/league-of-legends",
+      "favorite": true
     },
     {
       "id": 287,
@@ -4236,7 +4561,8 @@
       "publisher": "RedFox Games",
       "developer": "SG Data",
       "release_date": "2009-09-09",
-      "profile_url": "https://www.mmobomb.com/twelve-sky-2"
+      "profile_url": "https://www.mmobomb.com/twelve-sky-2",
+      "favorite": false
     },
     {
       "id": 288,
@@ -4249,7 +4575,8 @@
       "publisher": "Perfect World Entertainment",
       "developer": "Cryptic Studios",
       "release_date": "2009-09-01",
-      "profile_url": "https://www.mmobomb.com/champions-online"
+      "profile_url": "https://www.mmobomb.com/champions-online",
+      "favorite": false
     },
     {
       "id": 1110,
@@ -4262,7 +4589,8 @@
       "publisher": "Bytro Labs",
       "developer": "Bytro Labs",
       "release_date": "2009-09-06",
-      "profile_url": "https://www.mmobomb.com/supremacy-1914"
+      "profile_url": "https://www.mmobomb.com/supremacy-1914",
+      "favorite": false
     },
     {
       "id": 280,
@@ -4275,7 +4603,8 @@
       "publisher": "Aeria Games",
       "developer": "Softnyx",
       "release_date": "2009-07-09",
-      "profile_url": "https://www.mmobomb.com/wolfteam"
+      "profile_url": "https://www.mmobomb.com/wolfteam",
+      "favorite": false
     },
     {
       "id": 290,
@@ -4288,7 +4617,8 @@
       "publisher": "GameForge",
       "developer": "Runewalker Entertainment",
       "release_date": "2009-03-19",
-      "profile_url": "https://www.mmobomb.com/runes-of-magic"
+      "profile_url": "https://www.mmobomb.com/runes-of-magic",
+      "favorite": false
     },
     {
       "id": 291,
@@ -4301,7 +4631,8 @@
       "publisher": "Expansive Worlds , Avalanche Studios",
       "developer": "Expansive Worlds , Avalanche Studios",
       "release_date": "2009-03-05",
-      "profile_url": "https://www.mmobomb.com/thehunter"
+      "profile_url": "https://www.mmobomb.com/thehunter",
+      "favorite": false
     },
     {
       "id": 254,
@@ -4314,7 +4645,8 @@
       "publisher": "NCSOFT",
       "developer": "NCSOFT",
       "release_date": "2008-11-25",
-      "profile_url": "https://www.mmobomb.com/aion"
+      "profile_url": "https://www.mmobomb.com/aion",
+      "favorite": false
     },
     {
       "id": 293,
@@ -4327,7 +4659,8 @@
       "publisher": "VALOFE",
       "developer": "NDOORS Corporation",
       "release_date": "2008-10-30",
-      "profile_url": "https://www.mmobomb.com/atlantica-online"
+      "profile_url": "https://www.mmobomb.com/atlantica-online",
+      "favorite": false
     },
     {
       "id": 295,
@@ -4340,7 +4673,8 @@
       "publisher": "Netts Corporation",
       "developer": "Netts Corporation",
       "release_date": "2008-10-15",
-      "profile_url": "https://www.mmobomb.com/florensia"
+      "profile_url": "https://www.mmobomb.com/florensia",
+      "favorite": false
     },
     {
       "id": 306,
@@ -4353,7 +4687,8 @@
       "publisher": "Zemi Interactive",
       "developer": "Zemi Interactive",
       "release_date": "2008-10-20",
-      "profile_url": "https://www.mmobomb.com/4story"
+      "profile_url": "https://www.mmobomb.com/4story",
+      "favorite": false
     },
     {
       "id": 426,
@@ -4366,20 +4701,22 @@
       "publisher": "Artix Entertainment",
       "developer": "Artix Entertainment",
       "release_date": "2008-10-10",
-      "profile_url": "https://www.mmobomb.com/adventurequest-worlds"
+      "profile_url": "https://www.mmobomb.com/adventurequest-worlds",
+      "favorite": false
     },
     {
       "id": 296,
       "title": "S4 league",
       "thumbnail": "https://www.mmobomb.com/g/296/thumbnail.jpg",
-      "short_description": "S4 League is a great free MMO game that perfectly blends nonstop shooter action with inspired anime visuals. It\u2019s a stylish third person shooter with a fantastic and colorful anime attitude that is both terrific to look at and play.",
+      "short_description": "S4 League is a great free MMO game that perfectly blends nonstop shooter action with inspired anime visuals. It’s a stylish third person shooter with a fantastic and colorful anime attitude that is both terrific to look at and play.",
       "game_url": "https://www.mmobomb.com/open/s4-league",
       "genre": "Shooter",
       "platform": "PC (Windows)",
       "publisher": "Aeria Games",
       "developer": "GameOn Studio (Previously known as Pentavision)",
       "release_date": "2008-09-22",
-      "profile_url": "https://www.mmobomb.com/s4-league"
+      "profile_url": "https://www.mmobomb.com/s4-league",
+      "favorite": false
     },
     {
       "id": 297,
@@ -4392,7 +4729,8 @@
       "publisher": "KingsIsle Entertainment",
       "developer": "KingsIsle Entertainment",
       "release_date": "2008-09-02",
-      "profile_url": "https://www.mmobomb.com/wizard101"
+      "profile_url": "https://www.mmobomb.com/wizard101",
+      "favorite": false
     },
     {
       "id": 298,
@@ -4405,7 +4743,8 @@
       "publisher": "Beijing Perfect World, Perfect World Entertainment",
       "developer": "Beijing Perfect World",
       "release_date": "2008-09-02",
-      "profile_url": "https://www.mmobomb.com/perfect-world"
+      "profile_url": "https://www.mmobomb.com/perfect-world",
+      "favorite": false
     },
     {
       "id": 319,
@@ -4418,7 +4757,8 @@
       "publisher": "Suba Games",
       "developer": "MasangSoft",
       "release_date": "2008-08-29",
-      "profile_url": "https://www.mmobomb.com/ace-online"
+      "profile_url": "https://www.mmobomb.com/ace-online",
+      "favorite": false
     },
     {
       "id": 300,
@@ -4431,7 +4771,8 @@
       "publisher": "Playwith Interactive",
       "developer": "Playwith Interactive",
       "release_date": "2008-05-28",
-      "profile_url": "https://www.mmobomb.com/rohan-blood-feud"
+      "profile_url": "https://www.mmobomb.com/rohan-blood-feud",
+      "favorite": false
     },
     {
       "id": 301,
@@ -4444,20 +4785,22 @@
       "publisher": "Funcom",
       "developer": "Funcom",
       "release_date": "2008-05-20",
-      "profile_url": "https://www.mmobomb.com/age-of-conan"
+      "profile_url": "https://www.mmobomb.com/age-of-conan",
+      "favorite": false
     },
     {
       "id": 428,
       "title": "Ikariam",
       "thumbnail": "https://www.mmobomb.com/g/428/thumbnail.jpg",
-      "short_description": "Ikariam is a free-to-play browser based MMORTS with familiar gameplay, PvP multiplayer and civilian micromanagement Ikariam features real-time progression, the game\u2019s time flows whether you are online or offline, that offers a harrowing experience for many players as it can mean the difference between the success or loss of their city. Set within a chain of Greek-inspired islands, Ikariam challenges players to manage their resources while forging their own city-state.",
+      "short_description": "Ikariam is a free-to-play browser based MMORTS with familiar gameplay, PvP multiplayer and civilian micromanagement Ikariam features real-time progression, the game’s time flows whether you are online or offline, that offers a harrowing experience for many players as it can mean the difference between the success or loss of their city. Set within a chain of Greek-inspired islands, Ikariam challenges players to manage their resources while forging their own city-state.",
       "game_url": "https://www.mmobomb.com/open/ikariam",
       "genre": "Strategy",
       "platform": "Web Browser",
       "publisher": "GameForge",
       "developer": "GameForge",
       "release_date": "2008-03-31",
-      "profile_url": "https://www.mmobomb.com/ikariam"
+      "profile_url": "https://www.mmobomb.com/ikariam",
+      "favorite": false
     },
     {
       "id": 303,
@@ -4470,7 +4813,8 @@
       "publisher": "Silverlode Interactive",
       "developer": "Silverlode Interactive , Wasatch Games",
       "release_date": "2008-02-26",
-      "profile_url": "https://www.mmobomb.com/saga"
+      "profile_url": "https://www.mmobomb.com/saga",
+      "favorite": false
     },
     {
       "id": 305,
@@ -4483,7 +4827,8 @@
       "publisher": "gamigo AG",
       "developer": "Onson Soft",
       "release_date": "2008-02-01",
-      "profile_url": "https://www.mmobomb.com/fiesta-online"
+      "profile_url": "https://www.mmobomb.com/fiesta-online",
+      "favorite": false
     },
     {
       "id": 307,
@@ -4496,7 +4841,8 @@
       "publisher": "Aeria Games",
       "developer": "Aeria Games",
       "release_date": "2007-12-24",
-      "profile_url": "https://www.mmobomb.com/shaiya"
+      "profile_url": "https://www.mmobomb.com/shaiya",
+      "favorite": false
     },
     {
       "id": 308,
@@ -4509,7 +4855,8 @@
       "publisher": "I Got Games",
       "developer": "UserJoy Technology",
       "release_date": "2007-12-01",
-      "profile_url": "https://www.mmobomb.com/angels-online"
+      "profile_url": "https://www.mmobomb.com/angels-online",
+      "favorite": false
     },
     {
       "id": 309,
@@ -4522,7 +4869,8 @@
       "publisher": "YNK Interactive",
       "developer": "YNK Interactive",
       "release_date": "2007-11-19",
-      "profile_url": "https://www.mmobomb.com/seal-online"
+      "profile_url": "https://www.mmobomb.com/seal-online",
+      "favorite": false
     },
     {
       "id": 311,
@@ -4535,20 +4883,22 @@
       "publisher": "RedFox Games",
       "developer": "Nimonix",
       "release_date": "2007-08-02",
-      "profile_url": "https://www.mmobomb.com/rumble-fighter"
+      "profile_url": "https://www.mmobomb.com/rumble-fighter",
+      "favorite": false
     },
     {
       "id": 312,
       "title": "Granado Espada Online",
       "thumbnail": "https://www.mmobomb.com/g/312/thumbnail.jpg",
-      "short_description": "Granado Espada Online is a 3D free to play fantasy MMORPG with RTS (Real-Time Strategy) elements, inspired by Europe's exploration of the Americas. If you love to play strategy games and you are in a search of some online role playing game then I\u2019ll invite you to play this game.",
+      "short_description": "Granado Espada Online is a 3D free to play fantasy MMORPG with RTS (Real-Time Strategy) elements, inspired by Europe's exploration of the Americas. If you love to play strategy games and you are in a search of some online role playing game then I’ll invite you to play this game.",
       "game_url": "https://www.mmobomb.com/open/granado-espada",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
       "publisher": "T3Fun",
       "developer": "IMC Games Co. Limited",
       "release_date": "2007-07-10",
-      "profile_url": "https://www.mmobomb.com/granado-espada"
+      "profile_url": "https://www.mmobomb.com/granado-espada",
+      "favorite": false
     },
     {
       "id": 265,
@@ -4561,7 +4911,8 @@
       "publisher": "Battlezone",
       "developer": "JoongWon Games",
       "release_date": "2007-05-09",
-      "profile_url": "https://www.mmobomb.com/9dragons"
+      "profile_url": "https://www.mmobomb.com/9dragons",
+      "favorite": false
     },
     {
       "id": 15,
@@ -4574,20 +4925,22 @@
       "publisher": "Neowiz Games",
       "developer": "SmileGate",
       "release_date": "2007-05-03",
-      "profile_url": "https://www.mmobomb.com/crossfire"
+      "profile_url": "https://www.mmobomb.com/crossfire",
+      "favorite": false
     },
     {
       "id": 313,
       "title": "Teeworlds",
       "thumbnail": "https://www.mmobomb.com/g/313/thumbnail.jpg",
-      "short_description": "Teeworlds is a free to play retro multiplayer online shooter with side-scrolling combat like that of Smash Bros., and the ability to edit the maps for custom mods. It\u2019s easy to see why Teeworlds is a popular MMO shooter.",
+      "short_description": "Teeworlds is a free to play retro multiplayer online shooter with side-scrolling combat like that of Smash Bros., and the ability to edit the maps for custom mods. It’s easy to see why Teeworlds is a popular MMO shooter.",
       "game_url": "https://www.mmobomb.com/open/teeworlds",
       "genre": "Shooter",
       "platform": "PC (Windows)",
       "publisher": "Teeworlds Team ",
       "developer": "Teeworlds Team ",
       "release_date": "2007-05-27",
-      "profile_url": "https://www.mmobomb.com/teeworlds"
+      "profile_url": "https://www.mmobomb.com/teeworlds",
+      "favorite": false
     },
     {
       "id": 337,
@@ -4600,20 +4953,22 @@
       "publisher": "Suba Games",
       "developer": "Trglow Pictures",
       "release_date": "2007-05-17",
-      "profile_url": "https://www.mmobomb.com/priston-tale"
+      "profile_url": "https://www.mmobomb.com/priston-tale",
+      "favorite": false
     },
     {
       "id": 314,
       "title": "Audition Online",
       "thumbnail": "https://www.mmobomb.com/g/314/thumbnail.jpg",
-      "short_description": "Audition is an online music and dancing game that allows players to compete and cooperate with players from around all over the world. The objective of the game is to dance your way to virtual stardom by syncing avatar\u2019s moves with the beat of today\u2019s hottest pop music.",
+      "short_description": "Audition is an online music and dancing game that allows players to compete and cooperate with players from around all over the world. The objective of the game is to dance your way to virtual stardom by syncing avatar’s moves with the beat of today’s hottest pop music.",
       "game_url": "https://www.mmobomb.com/open/audition-online",
       "genre": "Social",
       "platform": "PC (Windows)",
       "publisher": "Redbana Corporation",
       "developer": "T3 Entertainment",
       "release_date": "2007-04-02",
-      "profile_url": "https://www.mmobomb.com/audition-online"
+      "profile_url": "https://www.mmobomb.com/audition-online",
+      "favorite": false
     },
     {
       "id": 16,
@@ -4626,7 +4981,8 @@
       "publisher": "Roblox Corporation",
       "developer": "Roblox Corporation",
       "release_date": "2006-12-22",
-      "profile_url": "https://www.mmobomb.com/roblox"
+      "profile_url": "https://www.mmobomb.com/roblox",
+      "favorite": false
     },
     {
       "id": 315,
@@ -4639,7 +4995,8 @@
       "publisher": "IGG",
       "developer": "Snail Games",
       "release_date": "2006-12-22",
-      "profile_url": "https://www.mmobomb.com/voyage-century"
+      "profile_url": "https://www.mmobomb.com/voyage-century",
+      "favorite": false
     },
     {
       "id": 333,
@@ -4652,7 +5009,8 @@
       "publisher": "Gameforge",
       "developer": "Ymir Entertainment",
       "release_date": "2006-12-17",
-      "profile_url": "https://www.mmobomb.com/metin2"
+      "profile_url": "https://www.mmobomb.com/metin2",
+      "favorite": false
     },
     {
       "id": 317,
@@ -4665,7 +5023,8 @@
       "publisher": "Webzen",
       "developer": "Gala Lab",
       "release_date": "2006-11-03",
-      "profile_url": "https://www.mmobomb.com/rappelz"
+      "profile_url": "https://www.mmobomb.com/rappelz",
+      "favorite": false
     },
     {
       "id": 351,
@@ -4678,7 +5037,8 @@
       "publisher": "GPRO.net",
       "developer": "GPRO.net",
       "release_date": "2006-08-01",
-      "profile_url": "https://www.mmobomb.com/gpro"
+      "profile_url": "https://www.mmobomb.com/gpro",
+      "favorite": false
     },
     {
       "id": 321,
@@ -4691,7 +5051,8 @@
       "publisher": "RedFox Games",
       "developer": "CCR Inc.",
       "release_date": "2006-02-21",
-      "profile_url": "https://www.mmobomb.com/rf-online"
+      "profile_url": "https://www.mmobomb.com/rf-online",
+      "favorite": false
     },
     {
       "id": 430,
@@ -4704,7 +5065,8 @@
       "publisher": "Boostr ",
       "developer": "Acute Mobile",
       "release_date": "2006-01-17",
-      "profile_url": "https://www.mmobomb.com/urban-rivals"
+      "profile_url": "https://www.mmobomb.com/urban-rivals",
+      "favorite": false
     },
     {
       "id": 323,
@@ -4717,7 +5079,8 @@
       "publisher": "Webzen",
       "developer": "Gala Lab Corp (formerly Aeonsoft)",
       "release_date": "2005-12-25",
-      "profile_url": "https://www.mmobomb.com/flyff"
+      "profile_url": "https://www.mmobomb.com/flyff",
+      "favorite": false
     },
     {
       "id": 324,
@@ -4730,7 +5093,8 @@
       "publisher": "SubaGames",
       "developer": "SoftStar",
       "release_date": "2005-09-03",
-      "profile_url": "https://www.mmobomb.com/domo"
+      "profile_url": "https://www.mmobomb.com/domo",
+      "favorite": false
     },
     {
       "id": 431,
@@ -4743,7 +5107,8 @@
       "publisher": "Imperia Online Ltd.",
       "developer": "Imperia Online Ltd.",
       "release_date": "2005-08-23",
-      "profile_url": "https://www.mmobomb.com/imperia-online"
+      "profile_url": "https://www.mmobomb.com/imperia-online",
+      "favorite": false
     },
     {
       "id": 325,
@@ -4756,7 +5121,8 @@
       "publisher": "Nexon",
       "developer": "Wizet",
       "release_date": "2005-05-11",
-      "profile_url": "https://www.mmobomb.com/maplestory"
+      "profile_url": "https://www.mmobomb.com/maplestory",
+      "favorite": false
     },
     {
       "id": 326,
@@ -4769,7 +5135,8 @@
       "publisher": "GamesCampus",
       "developer": "OnNet Co. Ltd.",
       "release_date": "2004-11-30",
-      "profile_url": "https://www.mmobomb.com/shot-online"
+      "profile_url": "https://www.mmobomb.com/shot-online",
+      "favorite": false
     },
     {
       "id": 327,
@@ -4782,7 +5149,8 @@
       "publisher": "Daybreak Games",
       "developer": "Daybreak Games",
       "release_date": "2004-11-08",
-      "profile_url": "https://www.mmobomb.com/everquest-2"
+      "profile_url": "https://www.mmobomb.com/everquest-2",
+      "favorite": false
     },
     {
       "id": 328,
@@ -4795,7 +5163,8 @@
       "publisher": "Ankama Games",
       "developer": "Ankama Games",
       "release_date": "2004-09-01",
-      "profile_url": "https://www.mmobomb.com/dofus"
+      "profile_url": "https://www.mmobomb.com/dofus",
+      "favorite": false
     },
     {
       "id": 352,
@@ -4808,7 +5177,8 @@
       "publisher": "Travian Games",
       "developer": "Travian Games",
       "release_date": "2004-09-05",
-      "profile_url": "https://www.mmobomb.com/travian"
+      "profile_url": "https://www.mmobomb.com/travian",
+      "favorite": false
     },
     {
       "id": 190,
@@ -4821,7 +5191,8 @@
       "publisher": "Winch Gate",
       "developer": "Nevrax",
       "release_date": "2004-09-19",
-      "profile_url": "https://www.mmobomb.com/ryzom"
+      "profile_url": "https://www.mmobomb.com/ryzom",
+      "favorite": false
     },
     {
       "id": 329,
@@ -4834,7 +5205,8 @@
       "publisher": "Inisxoft",
       "developer": "Inisxoft",
       "release_date": "2004-06-11",
-      "profile_url": "https://www.mmobomb.com/kalonline"
+      "profile_url": "https://www.mmobomb.com/kalonline",
+      "favorite": false
     },
     {
       "id": 330,
@@ -4847,7 +5219,8 @@
       "publisher": "NCSoft",
       "developer": "NCSoft",
       "release_date": "2004-04-27",
-      "profile_url": "https://www.mmobomb.com/lineage-2"
+      "profile_url": "https://www.mmobomb.com/lineage-2",
+      "favorite": false
     },
     {
       "id": 332,
@@ -4857,36 +5230,39 @@
       "game_url": "https://www.mmobomb.com/open/red-stone-online",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "L\uff06K CO., LTD",
-      "developer": "L\uff06K CO., LTD",
+      "publisher": "L＆K CO., LTD",
+      "developer": "L＆K CO., LTD",
       "release_date": "2003-10-06",
-      "profile_url": "https://www.mmobomb.com/red-stone-online"
+      "profile_url": "https://www.mmobomb.com/red-stone-online",
+      "favorite": false
     },
     {
       "id": 334,
       "title": "Mu Online",
       "thumbnail": "https://www.mmobomb.com/g/334/thumbnail.jpg",
-      "short_description": "MU Online is a free to play 3D fantasy MMORPG that takes the player, into a world full of excitement, adventure and monsters. The game\u2019s graphics and interface both look a lot like Diablo 2.",
+      "short_description": "MU Online is a free to play 3D fantasy MMORPG that takes the player, into a world full of excitement, adventure and monsters. The game’s graphics and interface both look a lot like Diablo 2.",
       "game_url": "https://www.mmobomb.com/open/mu-online",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
       "publisher": "Webzen",
       "developer": "Webzen",
       "release_date": "2003-10-06",
-      "profile_url": "https://www.mmobomb.com/mu-online"
+      "profile_url": "https://www.mmobomb.com/mu-online",
+      "favorite": false
     },
     {
       "id": 18,
       "title": "Second Life",
       "thumbnail": "https://www.mmobomb.com/g/18/thumbnail.jpg",
-      "short_description": "Second Life is one of the most famous, if not the most famous free online virtual world games ever created. From the moment you step into the world designed by Linden Lab, you\u2019ll find a place where there are opportunities to do everything you want to.",
+      "short_description": "Second Life is one of the most famous, if not the most famous free online virtual world games ever created. From the moment you step into the world designed by Linden Lab, you’ll find a place where there are opportunities to do everything you want to.",
       "game_url": "https://www.mmobomb.com/open/second-life",
       "genre": "Social",
       "platform": "PC (Windows)",
       "publisher": "Linden Lab",
       "developer": "Linden Lab",
       "release_date": "2003-06-23",
-      "profile_url": "https://www.mmobomb.com/second-life"
+      "profile_url": "https://www.mmobomb.com/second-life",
+      "favorite": false
     },
     {
       "id": 335,
@@ -4899,20 +5275,22 @@
       "publisher": "Gravity Interactive ",
       "developer": "Gravity Interactive ",
       "release_date": "2003-06-01",
-      "profile_url": "https://www.mmobomb.com/ragnarok-online"
+      "profile_url": "https://www.mmobomb.com/ragnarok-online",
+      "favorite": false
     },
     {
       "id": 17,
       "title": "Entropia Universe",
       "thumbnail": "https://www.mmobomb.com/g/17/thumbnail.jpg",
-      "short_description": "Entropia Universe is free to play 3D Sci-Fi MMORPG with interesting economic and social features. MindArk\u2019s virtual economy universe is known by many names depending on when you started playing the game and what planet was the key planet at the time.",
+      "short_description": "Entropia Universe is free to play 3D Sci-Fi MMORPG with interesting economic and social features. MindArk’s virtual economy universe is known by many names depending on when you started playing the game and what planet was the key planet at the time.",
       "game_url": "https://www.mmobomb.com/open/entropia-universe",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
       "publisher": "MindArk",
       "developer": "MindArk",
       "release_date": "2003-01-30",
-      "profile_url": "https://www.mmobomb.com/entropia-universe"
+      "profile_url": "https://www.mmobomb.com/entropia-universe",
+      "favorite": false
     },
     {
       "id": 432,
@@ -4925,20 +5303,22 @@
       "publisher": "Sulake Corporation",
       "developer": "Sulake Corporation",
       "release_date": "2001-09-26",
-      "profile_url": "https://www.mmobomb.com/habbo"
+      "profile_url": "https://www.mmobomb.com/habbo",
+      "favorite": false
     },
     {
       "id": 336,
       "title": "Anarchy Online",
       "thumbnail": "https://www.mmobomb.com/g/336/thumbnail.jpg",
-      "short_description": "Anarchy Online is a 3D Sci-Fi MMORPG originally released in 2001 as a subscription based game, but it\u2019s now available for free. Anarchy Online has four playable races (Solitus, Opifex , Nanomage, and Atrox) and fourteen different classes to chose from (Adventurer, Agent, Bureaucrat, Doctor, Enforcer, Engineer, Fixer, Keeper, Martial Artist, Meta-Physicist, Nano Technician, Shade, Soldier).",
+      "short_description": "Anarchy Online is a 3D Sci-Fi MMORPG originally released in 2001 as a subscription based game, but it’s now available for free. Anarchy Online has four playable races (Solitus, Opifex , Nanomage, and Atrox) and fourteen different classes to chose from (Adventurer, Agent, Bureaucrat, Doctor, Enforcer, Engineer, Fixer, Keeper, Martial Artist, Meta-Physicist, Nano Technician, Shade, Soldier).",
       "game_url": "https://www.mmobomb.com/open/anarchy-online",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
       "publisher": "Funcom",
       "developer": "Funcom",
       "release_date": "2001-06-27",
-      "profile_url": "https://www.mmobomb.com/anarchy-online"
+      "profile_url": "https://www.mmobomb.com/anarchy-online",
+      "favorite": false
     },
     {
       "id": 339,
@@ -4951,7 +5331,8 @@
       "publisher": "CipSoft",
       "developer": "CipSoft",
       "release_date": "1997-01-07",
-      "profile_url": "https://www.mmobomb.com/tibia"
+      "profile_url": "https://www.mmobomb.com/tibia",
+      "favorite": false
     },
     {
       "id": 405,
@@ -4964,20 +5345,35 @@
       "publisher": "Spyr",
       "developer": "Spyr",
       "release_date": "0000-00-00",
-      "profile_url": "https://www.mmobomb.com/pocket-starships"
+      "profile_url": "https://www.mmobomb.com/pocket-starships",
+      "favorite": false
     },
     {
       "id": 429,
       "title": "Astro Empires",
       "thumbnail": "https://www.mmobomb.com/g/429/thumbnail.jpg",
-      "short_description": "Explore the farthest reaches of space in Cybertopia Studios\u2019 Astro Empires, a free to play text-based space strategy MMO that gives you something you\u2019ve always dreamed of: the chance to build your own galaxy-spanning empire among the stars. As you start with your own planet in the farthest flung regions of unknown space in Astro Empires, you will learn to gather materials and develop new technologies to turn your previously unnoticed rock into a mighty empire befitting a galactic emperor.",
+      "short_description": "Explore the farthest reaches of space in Cybertopia Studios’ Astro Empires, a free to play text-based space strategy MMO that gives you something you’ve always dreamed of: the chance to build your own galaxy-spanning empire among the stars. As you start with your own planet in the farthest flung regions of unknown space in Astro Empires, you will learn to gather materials and develop new technologies to turn your previously unnoticed rock into a mighty empire befitting a galactic emperor.",
       "game_url": "https://www.mmobomb.com/open/astro-empires",
       "genre": "Strategy",
       "platform": "Web Browser",
       "publisher": "Cybertopia",
       "developer": "Cybertopia",
       "release_date": "0000-00-00",
-      "profile_url": "https://www.mmobomb.com/astro-empires"
+      "profile_url": "https://www.mmobomb.com/astro-empires",
+      "favorite": false
+    },
+    {
+      "title": "Ramen Eater",
+      "thumbnail": "",
+      "short_description": "eating ramen",
+      "game_url": "",
+      "genre": "Social",
+      "platform": "PC (Windows)",
+      "publisher": "renwill",
+      "developer": "rennwill",
+      "release_date": "2023-06-06",
+      "id": 1154,
+      "favorite": false
     }
   ]
 }
