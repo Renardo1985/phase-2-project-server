@@ -26,7 +26,7 @@
       "developer": "Hotta Studio",
       "release_date": "2022-08-10",
       "profile_url": "https://www.mmobomb.com/tower-of-fantasy",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 1118,
@@ -166,7 +166,7 @@
       "developer": "Gaijin",
       "release_date": "2017-05-30",
       "profile_url": "https://www.mmobomb.com/crossout",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 347,
@@ -264,7 +264,7 @@
       "developer": "miHoYo",
       "release_date": "2020-09-28",
       "profile_url": "https://www.mmobomb.com/genshin-impact",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 458,
@@ -292,7 +292,7 @@
       "developer": "Bungie",
       "release_date": "2019-10-01",
       "profile_url": "https://www.mmobomb.com/destiny-2",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 1140,
@@ -348,7 +348,7 @@
       "developer": "343 Industries",
       "release_date": "2021-11-15",
       "profile_url": "https://www.mmobomb.com/halo-infinite",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 452,
@@ -362,7 +362,7 @@
       "developer": "Infinity Ward",
       "release_date": "2020-03-10",
       "profile_url": "https://www.mmobomb.com/call-of-duty-warzone",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 9,
@@ -390,7 +390,7 @@
       "developer": "Digital Extremes",
       "release_date": "2013-03-25",
       "profile_url": "https://www.mmobomb.com/warframe",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 13,
@@ -460,7 +460,7 @@
       "developer": "Phoenix Labs, Iron Galaxy",
       "release_date": "2019-05-21",
       "profile_url": "https://www.mmobomb.com/dauntless",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 455,
@@ -488,7 +488,7 @@
       "developer": "Electronic Arts",
       "release_date": "2019-02-04",
       "profile_url": "https://www.mmobomb.com/apex-legends",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 57,
@@ -3694,7 +3694,7 @@
       "developer": "MAIET Entertainme",
       "release_date": "2014-05-01",
       "profile_url": "https://www.mmobomb.com/gunz-2",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 213,
@@ -3862,7 +3862,7 @@
       "developer": "Grinding Gear Games",
       "release_date": "2013-10-23",
       "profile_url": "https://www.mmobomb.com/path-of-exile",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 411,
@@ -4394,7 +4394,7 @@
       "developer": "KOG",
       "release_date": "2011-03-23",
       "profile_url": "https://www.mmobomb.com/elsword",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 260,
@@ -4464,7 +4464,7 @@
       "developer": "devCAT",
       "release_date": "2010-10-13",
       "profile_url": "https://www.mmobomb.com/vindictus",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 277,
@@ -4548,7 +4548,7 @@
       "developer": "Riot Games",
       "release_date": "2009-10-27",
       "profile_url": "https://www.mmobomb.com/league-of-legends",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 287,
@@ -5360,6 +5360,32 @@
       "developer": "Cybertopia",
       "release_date": "0000-00-00",
       "profile_url": "https://www.mmobomb.com/astro-empires",
+      "favorite": false
+    },
+    {
+      "title": "Diablo 4",
+      "thumbnail": "",
+      "short_description": "",
+      "game_url": "",
+      "genre": "ARPG",
+      "platform": "PC (Windows)",
+      "publisher": "Blizzrad",
+      "developer": "Blizzard",
+      "release_date": "2023-06-28",
+      "id": 1154,
+      "favorite": false
+    },
+    {
+      "title": "Ramen Eater",
+      "thumbnail": "",
+      "short_description": "",
+      "game_url": "",
+      "genre": "Social",
+      "platform": "PC (Windows)",
+      "publisher": "Blizzrad",
+      "developer": "Blizzard",
+      "release_date": "2023-06-07",
+      "id": 1155,
       "favorite": false
     }
   ]
